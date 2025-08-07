@@ -1,0 +1,1001 @@
+customer_id,gender,age,product_category,session_start,device,items_in_cart,session_time_minutes,payment_method,used_discount,abandoned
+1102,Male,27,Toys,27-05-2023 06:51,Tablet,5,2.405445875,Debit Card,0,0
+1435,Male,33,Beauty,17-06-2023 18:27,Tablet,4,1,Credit Card,0,1
+1860,Male,24,Electronics,23-04-2023 05:31,Tablet,1,11.94187865,Debit Card,0,0
+1270,Female,34,Beauty,02-05-2023 10:54,Desktop,1,9.525878844,PayPal,0,0
+1106,Male,40,Electronics,10-02-2023 15:58,Mobile,3,7.426086625,Cash on Delivery,0,1
+1071,Female,43,Beauty,29-01-2023 01:44,Tablet,3,11.21765102,Debit Card,1,0
+1700,Male,38,Electronics,20-02-2023 21:29,Desktop,3,9.697981354,Credit Card,0,0
+1020,Female,39,Fitness,22-05-2023 03:29,Tablet,2,15.63890125,Debit Card,0,1
+1614,Female,24,Books,20-02-2023 19:01,Tablet,4,10.43055434,PayPal,0,0
+1121,Male,31,Electronics,01-05-2023 12:50,Desktop,4,6.265383575,Credit Card,0,1
+1466,Male,32,Electronics,25-03-2023 07:33,Desktop,4,14.95083119,PayPal,1,1
+1214,Male,24,Fashion,04-06-2023 10:28,Mobile,4,8.914344625,PayPal,0,0
+1330,Male,26,Electronics,02-01-2023 06:26,Mobile,3,12.63268342,Debit Card,0,0
+1458,Female,25,Fashion,24-05-2023 22:53,Tablet,1,7.612946469,PayPal,0,1
+1087,Male,40,Toys,09-02-2023 04:17,Tablet,3,6.750865573,Credit Card,1,0
+1372,Male,46,Fitness,22-03-2023 04:27,Mobile,4,10.42084115,PayPal,0,0
+1099,Female,35,Fashion,12-06-2023 03:54,Mobile,3,10.06414322,PayPal,1,1
+1871,Male,48,Books,06-03-2023 22:14,Desktop,4,12.39913518,Debit Card,0,0
+1663,Male,47,Fitness,14-02-2023 16:25,Mobile,5,8.656771233,PayPal,0,1
+1130,Male,56,Fashion,11-04-2023 20:36,Mobile,1,1,Cash on Delivery,0,0
+1661,Male,52,Fitness,03-03-2023 00:48,Tablet,5,7.836130582,Debit Card,1,0
+1308,Male,35,Fitness,07-05-2023 03:42,Mobile,2,13.96909234,Debit Card,0,0
+1769,Female,59,Fitness,02-06-2023 21:42,Tablet,3,8.513119604,Credit Card,1,1
+1343,Male,56,Toys,01-06-2023 21:57,Mobile,2,8.768082987,Credit Card,0,1
+1491,Male,34,Books,28-01-2023 04:36,Desktop,3,14.93188253,Credit Card,0,1
+1413,Male,31,Beauty,17-04-2023 06:59,Mobile,5,6.440133864,Credit Card,0,0
+1805,Male,48,Beauty,09-04-2023 06:14,Mobile,4,2.285983909,Cash on Delivery,1,0
+1385,Male,41,Fashion,14-03-2023 17:33,Mobile,4,9.196844402,Debit Card,0,0
+1191,Female,52,Fitness,18-04-2023 03:14,Tablet,3,7.579130244,PayPal,1,0
+1955,Male,61,Fashion,05-06-2023 19:55,Desktop,4,5.168768401,Credit Card,1,0
+1276,Female,62,Toys,20-03-2023 17:44,Mobile,5,9.123107721,Credit Card,1,1
+1160,Female,51,Toys,04-03-2023 00:22,Tablet,4,12.45752824,Credit Card,0,0
+1459,Male,20,Electronics,14-04-2023 18:18,Desktop,5,9.953557192,PayPal,0,1
+1313,Male,54,Toys,17-02-2023 11:11,Tablet,2,11.53490536,Credit Card,1,0
+1021,Male,60,Electronics,26-02-2023 19:01,Tablet,5,19.06703849,PayPal,0,1
+1252,Male,57,Books,10-04-2023 23:23,Desktop,1,8.285605692,Debit Card,0,0
+1747,Female,43,Fashion,10-06-2023 11:18,Mobile,1,11.39174317,Debit Card,0,0
+1856,Male,40,Books,03-02-2023 07:19,Tablet,1,7.453933187,Debit Card,0,0
+1560,Male,61,Toys,05-06-2023 15:32,Tablet,3,5.768201401,Cash on Delivery,0,0
+1474,Male,56,Books,07-01-2023 20:19,Mobile,3,7.075461733,PayPal,0,0
+1058,Male,32,Books,14-06-2023 13:52,Mobile,3,7.606207142,Credit Card,0,0
+1510,Male,21,Books,16-02-2023 19:31,Desktop,5,11.79737899,Credit Card,0,0
+1681,Male,46,Toys,19-01-2023 20:25,Desktop,3,21.74537893,Credit Card,0,1
+1475,Female,39,Fitness,26-05-2023 16:46,Desktop,2,6.419782819,Credit Card,0,1
+1699,Female,42,Books,06-05-2023 06:34,Mobile,1,7.916873472,Cash on Delivery,0,1
+1975,Male,30,Electronics,18-02-2023 14:40,Tablet,5,9.684384934,Credit Card,0,0
+1782,Male,35,Toys,07-02-2023 09:35,Tablet,1,11.97899424,Cash on Delivery,0,1
+1189,Male,50,Books,10-03-2023 23:35,Desktop,3,11.31775406,PayPal,0,0
+1957,Female,33,Fitness,11-06-2023 20:27,Mobile,5,16.42047897,Debit Card,0,0
+1686,Male,62,Toys,06-03-2023 17:34,Tablet,4,1,Credit Card,1,0
+1957,Female,59,Beauty,12-05-2023 13:56,Desktop,2,1,Debit Card,0,0
+1562,Male,61,Fitness,07-06-2023 23:19,Tablet,3,7.52060914,PayPal,1,0
+1875,Male,19,Electronics,29-03-2023 07:22,Tablet,3,15.48650094,PayPal,0,0
+1566,Male,52,Books,08-03-2023 01:14,Mobile,2,2.171759842,Credit Card,0,0
+1243,Male,59,Beauty,14-02-2023 19:38,Mobile,2,1,PayPal,0,1
+1831,Female,51,Beauty,23-06-2023 06:02,Tablet,4,12.85589703,Debit Card,0,1
+1504,Female,47,Toys,20-02-2023 04:21,Desktop,3,11.21828612,Credit Card,0,1
+1130,Male,30,Beauty,28-02-2023 02:04,Mobile,3,4.548957966,Cash on Delivery,0,1
+1484,Male,30,Electronics,23-05-2023 04:04,Tablet,1,5.072301996,Credit Card,0,0
+1818,Female,35,Electronics,30-01-2023 08:04,Mobile,5,5.151281402,Debit Card,0,1
+1646,Female,49,Fashion,02-05-2023 02:04,Mobile,5,10.55267659,Credit Card,0,1
+1020,Female,49,Electronics,06-02-2023 02:49,Mobile,1,6.868423619,Credit Card,1,0
+1840,Female,52,Fitness,04-05-2023 17:38,Tablet,5,12.47031959,Debit Card,0,0
+1166,Male,56,Beauty,28-03-2023 10:45,Desktop,2,1,Credit Card,0,1
+1273,Female,63,Electronics,18-01-2023 03:20,Desktop,5,5.715740674,Credit Card,0,0
+1387,Male,46,Toys,23-04-2023 13:16,Desktop,5,4.369730195,Debit Card,0,1
+1600,Female,46,Fashion,18-03-2023 00:58,Mobile,1,8.718296608,PayPal,1,0
+1315,Female,61,Beauty,24-06-2023 10:37,Tablet,4,7.309761208,Debit Card,0,0
+1013,Female,33,Fashion,25-05-2023 01:48,Mobile,5,13.9892189,Credit Card,0,0
+1241,Female,61,Beauty,22-01-2023 01:07,Desktop,5,1,Cash on Delivery,1,0
+1776,Female,64,Toys,10-03-2023 19:48,Desktop,4,10.22745738,Cash on Delivery,0,1
+1345,Male,27,Fashion,18-02-2023 11:13,Tablet,1,12.79168212,Debit Card,0,1
+1564,Male,47,Books,19-04-2023 13:40,Mobile,4,19.28323718,Cash on Delivery,1,0
+1897,Female,42,Fitness,03-05-2023 05:42,Desktop,1,7.591170145,Credit Card,0,0
+1339,Female,56,Fitness,28-06-2023 14:58,Tablet,2,11.62229302,Credit Card,0,1
+1091,Male,37,Beauty,11-02-2023 22:57,Mobile,1,1,Debit Card,0,1
+1366,Female,22,Books,09-06-2023 18:52,Mobile,2,1,Credit Card,0,0
+1955,Female,18,Fashion,20-02-2023 12:41,Desktop,2,14.22387188,PayPal,0,0
+1454,Male,47,Books,26-03-2023 15:41,Desktop,1,9.972198532,Credit Card,1,1
+1427,Female,20,Books,07-05-2023 16:43,Mobile,3,15.89256345,Debit Card,0,1
+1508,Female,62,Fashion,21-01-2023 04:59,Mobile,1,3.132985555,PayPal,1,0
+1775,Male,31,Toys,19-05-2023 05:58,Desktop,5,12.5995107,PayPal,1,0
+1942,Male,47,Books,09-03-2023 23:28,Mobile,5,19.3440892,Cash on Delivery,0,1
+1034,Male,21,Books,02-04-2023 21:43,Desktop,3,12.09852804,Credit Card,0,1
+1205,Female,35,Toys,05-05-2023 08:02,Mobile,2,11.38290753,Debit Card,0,0
+1080,Male,54,Books,21-05-2023 18:54,Desktop,3,10.0427804,Cash on Delivery,1,0
+1931,Male,42,Books,08-04-2023 02:18,Tablet,5,2.145592714,Cash on Delivery,1,1
+1561,Male,18,Books,28-06-2023 08:28,Desktop,3,16.77786468,Credit Card,0,0
+1871,Male,63,Fitness,17-01-2023 18:42,Desktop,1,6.945711801,Credit Card,0,0
+1387,Male,32,Electronics,23-03-2023 01:43,Tablet,3,12.52241628,Debit Card,0,0
+1001,Male,26,Toys,01-06-2023 12:41,Mobile,2,2.184828467,Cash on Delivery,1,0
+1389,Female,32,Books,19-01-2023 02:44,Tablet,1,4.102701677,Debit Card,0,1
+1565,Female,41,Fitness,26-03-2023 08:39,Desktop,4,17.175437,Cash on Delivery,0,0
+1105,Male,21,Toys,28-01-2023 08:36,Mobile,5,8.263488555,Cash on Delivery,1,1
+1771,Male,29,Beauty,25-05-2023 10:12,Tablet,5,17.26637738,Cash on Delivery,0,0
+1821,Male,54,Beauty,13-06-2023 01:03,Mobile,3,9.608846705,Credit Card,0,0
+1476,Female,54,Books,01-04-2023 19:00,Mobile,1,1,Cash on Delivery,0,0
+1702,Female,60,Fitness,08-04-2023 04:26,Tablet,4,14.460338,Cash on Delivery,0,1
+1401,Female,23,Fitness,23-02-2023 19:23,Mobile,1,7.050538411,Cash on Delivery,0,1
+1729,Female,56,Toys,29-05-2023 06:34,Tablet,5,13.49344407,PayPal,1,0
+1555,Female,63,Toys,05-01-2023 16:16,Desktop,1,10.12605434,Credit Card,0,1
+1161,Female,41,Fitness,20-01-2023 09:17,Mobile,4,2.28440886,PayPal,0,1
+1201,Female,28,Toys,12-01-2023 14:42,Desktop,3,10.82147383,Credit Card,0,1
+1957,Female,30,Fitness,27-05-2023 11:05,Desktop,2,20.98111571,Debit Card,0,0
+1995,Female,51,Electronics,17-02-2023 10:19,Mobile,1,12.46493229,PayPal,0,1
+1269,Male,42,Fitness,21-02-2023 14:23,Tablet,2,9.712411235,Debit Card,1,0
+1862,Male,24,Beauty,11-03-2023 17:02,Mobile,5,15.37671701,Cash on Delivery,1,0
+1815,Male,21,Toys,12-04-2023 20:39,Desktop,3,11.05334233,Debit Card,0,1
+1270,Male,25,Fitness,31-05-2023 06:38,Desktop,3,11.04767115,Debit Card,0,0
+1455,Female,37,Fitness,04-06-2023 11:54,Tablet,1,4.541874139,Debit Card,0,0
+1461,Female,46,Toys,28-06-2023 16:13,Mobile,3,11.16924013,Debit Card,1,0
+1726,Male,62,Electronics,23-03-2023 10:03,Desktop,1,15.17721708,Credit Card,0,1
+1251,Female,63,Electronics,28-06-2023 12:51,Desktop,1,5.819689239,PayPal,1,1
+1701,Male,27,Toys,15-05-2023 06:04,Desktop,2,17.12247911,Credit Card,0,0
+1295,Female,60,Fashion,12-06-2023 17:51,Tablet,3,9.541469879,Credit Card,1,1
+1724,Male,51,Toys,14-03-2023 01:55,Desktop,1,5.561152442,Credit Card,1,0
+1719,Female,43,Toys,22-06-2023 05:36,Desktop,2,14.98816038,Debit Card,1,0
+1748,Female,58,Electronics,23-04-2023 12:16,Mobile,4,8.566028821,Credit Card,0,1
+1337,Male,20,Electronics,06-04-2023 13:59,Mobile,2,13.79757444,PayPal,0,0
+1878,Female,23,Toys,27-05-2023 22:26,Desktop,2,8.541206839,Credit Card,0,0
+1052,Male,22,Toys,10-03-2023 17:16,Desktop,1,9.700869282,Cash on Delivery,1,0
+1791,Male,22,Toys,24-06-2023 04:46,Mobile,5,12.46780102,Debit Card,0,1
+1921,Male,64,Electronics,24-04-2023 07:59,Tablet,5,11.45448529,Cash on Delivery,1,0
+1216,Male,40,Toys,22-01-2023 22:52,Tablet,5,1,PayPal,1,1
+1763,Female,26,Toys,20-06-2023 15:05,Tablet,2,4.3937813,PayPal,0,1
+1187,Female,52,Books,11-02-2023 05:19,Tablet,1,14.64704992,PayPal,1,0
+1379,Female,37,Fashion,06-05-2023 04:36,Tablet,3,9.339317055,PayPal,0,1
+1492,Male,59,Beauty,18-06-2023 11:35,Tablet,2,7.381343486,Credit Card,0,0
+1040,Female,52,Fashion,30-01-2023 00:56,Tablet,2,3.207129924,Debit Card,0,0
+1156,Male,35,Books,16-02-2023 19:46,Tablet,1,4.601318394,PayPal,0,1
+1014,Female,34,Beauty,19-01-2023 23:13,Mobile,4,1,Cash on Delivery,1,1
+1812,Female,41,Toys,08-01-2023 13:13,Tablet,2,9.493596406,PayPal,0,0
+1064,Female,20,Books,23-04-2023 22:30,Tablet,4,7.007812097,Debit Card,0,0
+1856,Male,49,Toys,30-01-2023 10:46,Tablet,4,5.167060545,Cash on Delivery,0,0
+1838,Female,52,Electronics,08-03-2023 18:08,Desktop,5,9.659382874,Cash on Delivery,1,0
+1520,Female,55,Fitness,05-02-2023 00:24,Mobile,1,11.81985315,Cash on Delivery,0,0
+1343,Male,30,Books,06-02-2023 00:00,Mobile,4,20.46598966,Credit Card,1,0
+1128,Female,64,Electronics,23-05-2023 02:20,Mobile,1,2.440582902,PayPal,0,1
+1647,Male,42,Books,16-05-2023 03:07,Tablet,5,15.79690522,Credit Card,0,0
+1471,Female,26,Books,08-05-2023 03:20,Tablet,1,14.86550781,Cash on Delivery,0,0
+1062,Male,21,Electronics,07-05-2023 04:16,Desktop,2,6.104536303,Credit Card,0,1
+1138,Male,31,Beauty,13-06-2023 09:06,Mobile,4,11.01617977,Credit Card,1,1
+1498,Female,54,Fashion,14-04-2023 21:28,Tablet,1,7.711833753,Credit Card,0,0
+1592,Male,51,Toys,03-02-2023 15:41,Mobile,3,10.9284429,PayPal,1,0
+1391,Male,28,Books,08-05-2023 21:23,Desktop,1,17.54565507,Cash on Delivery,0,1
+1674,Male,58,Toys,07-06-2023 23:01,Desktop,4,13.02803116,Cash on Delivery,0,0
+1418,Male,20,Fitness,16-03-2023 22:58,Desktop,5,12.54304187,PayPal,1,0
+1288,Male,45,Electronics,13-03-2023 15:09,Mobile,5,7.8484534,Credit Card,1,1
+1378,Male,46,Toys,22-06-2023 21:53,Tablet,4,2.579716675,Credit Card,0,0
+1772,Female,26,Electronics,14-02-2023 01:22,Tablet,2,8.957658947,Debit Card,0,0
+1489,Male,20,Toys,03-05-2023 05:57,Desktop,2,16.03304077,Debit Card,0,0
+1230,Male,42,Fashion,16-01-2023 18:09,Tablet,5,2.364160717,Debit Card,0,0
+1040,Female,51,Fashion,17-06-2023 06:14,Desktop,5,4.724553159,PayPal,1,0
+1027,Female,29,Fashion,11-06-2023 23:23,Mobile,4,10.63133868,Cash on Delivery,1,1
+1134,Female,59,Fashion,24-05-2023 23:01,Desktop,2,5.076726076,Debit Card,0,0
+1200,Female,26,Fashion,07-03-2023 07:29,Mobile,5,6.037382764,Cash on Delivery,1,0
+1839,Female,32,Fashion,13-01-2023 03:03,Desktop,2,7.882007091,Cash on Delivery,0,0
+1779,Female,57,Electronics,21-04-2023 08:27,Tablet,5,3.171912979,Cash on Delivery,0,1
+1929,Female,42,Books,03-02-2023 04:54,Tablet,1,5.129390769,PayPal,0,0
+1032,Male,22,Toys,16-05-2023 20:38,Desktop,3,13.51713958,PayPal,0,0
+1047,Male,28,Fashion,30-04-2023 17:30,Tablet,1,3.463151089,PayPal,0,1
+1502,Female,51,Electronics,28-04-2023 12:12,Tablet,5,2.010639328,PayPal,0,0
+1406,Male,41,Electronics,22-02-2023 05:20,Tablet,3,6.849875102,Debit Card,0,0
+1573,Male,32,Electronics,25-05-2023 20:56,Mobile,3,13.65977751,Credit Card,0,0
+1727,Male,55,Books,07-06-2023 07:16,Tablet,5,9.01539096,Credit Card,1,0
+1804,Female,25,Toys,13-01-2023 23:46,Mobile,5,7.677094609,Credit Card,0,0
+1098,Female,22,Books,22-02-2023 22:16,Desktop,2,10.22179399,Debit Card,0,1
+1683,Male,43,Beauty,25-01-2023 12:05,Tablet,5,1.271462836,Credit Card,1,0
+1871,Female,35,Electronics,31-01-2023 05:36,Tablet,4,12.47352827,Debit Card,1,0
+1725,Male,23,Beauty,23-01-2023 09:03,Tablet,5,11.91717516,Debit Card,1,0
+1986,Male,54,Fitness,15-03-2023 17:13,Desktop,4,7.95345763,Debit Card,0,0
+1546,Male,30,Fashion,23-02-2023 10:59,Mobile,5,15.02962256,Credit Card,0,0
+1960,Male,45,Fashion,09-06-2023 17:17,Mobile,2,4.362519505,Cash on Delivery,0,1
+1738,Female,22,Books,27-06-2023 06:51,Tablet,4,15.63954497,Credit Card,0,0
+1612,Female,30,Toys,20-04-2023 16:51,Desktop,1,10.77246833,Credit Card,1,1
+1942,Female,34,Beauty,22-02-2023 06:47,Desktop,4,8.317237051,PayPal,0,0
+1461,Male,57,Toys,20-03-2023 17:25,Desktop,2,9.900631823,Debit Card,0,0
+1642,Female,62,Books,30-01-2023 11:42,Desktop,4,9.463676171,Cash on Delivery,0,0
+1768,Male,49,Fashion,04-01-2023 20:28,Desktop,5,16.10141448,PayPal,0,0
+1004,Female,46,Toys,28-02-2023 12:55,Mobile,5,4.616604363,Cash on Delivery,1,0
+1217,Male,20,Toys,12-01-2023 21:53,Mobile,2,6.187403804,Cash on Delivery,0,0
+1502,Male,57,Fashion,23-03-2023 05:53,Mobile,3,15.18151446,Debit Card,0,1
+1766,Male,51,Beauty,07-05-2023 18:18,Tablet,5,7.022325324,Credit Card,0,0
+1397,Female,57,Fashion,15-04-2023 16:30,Desktop,1,14.50266539,Debit Card,0,0
+1870,Female,44,Toys,03-04-2023 19:37,Tablet,2,18.49717992,Debit Card,0,0
+1794,Female,30,Beauty,18-01-2023 18:39,Desktop,4,7.991024865,PayPal,0,0
+1392,Female,62,Beauty,07-02-2023 03:28,Mobile,4,13.40681163,Debit Card,0,0
+1206,Male,50,Fashion,28-03-2023 18:31,Tablet,1,4.231538593,Credit Card,1,0
+1014,Female,23,Toys,19-02-2023 06:29,Mobile,5,13.77366649,Cash on Delivery,1,0
+1857,Female,41,Books,10-03-2023 15:39,Desktop,2,10.99711993,Debit Card,1,1
+1553,Male,36,Toys,01-05-2023 19:40,Desktop,1,12.36519141,Cash on Delivery,1,1
+1891,Male,33,Electronics,05-06-2023 10:32,Desktop,5,6.77213964,Debit Card,0,0
+1460,Male,57,Fitness,06-03-2023 02:16,Mobile,2,1.694582922,Cash on Delivery,0,0
+1690,Female,45,Books,04-06-2023 07:07,Desktop,4,12.51626032,Debit Card,0,1
+1574,Male,50,Beauty,10-04-2023 15:10,Mobile,2,1,PayPal,1,0
+1863,Male,58,Books,20-02-2023 02:20,Tablet,3,8.413247539,Cash on Delivery,1,0
+1742,Male,30,Beauty,24-03-2023 02:56,Desktop,2,14.70590933,Debit Card,1,0
+1240,Female,60,Beauty,22-04-2023 11:30,Desktop,3,10.95948868,Debit Card,0,0
+1563,Male,62,Books,14-06-2023 06:40,Desktop,2,19.74171322,PayPal,1,0
+1095,Female,42,Beauty,06-06-2023 15:28,Tablet,3,15.12554576,PayPal,0,0
+1899,Female,59,Beauty,01-03-2023 10:31,Desktop,4,6.730508058,PayPal,0,0
+1733,Male,53,Electronics,18-05-2023 02:54,Mobile,5,10.1365669,Cash on Delivery,0,0
+1484,Male,44,Toys,23-01-2023 03:54,Mobile,3,9.763146487,Cash on Delivery,0,1
+1406,Female,55,Toys,13-01-2023 18:44,Desktop,3,2.089116183,PayPal,0,0
+1230,Male,24,Fitness,10-06-2023 08:42,Desktop,4,5.298005418,Credit Card,0,0
+1748,Male,22,Fitness,17-01-2023 07:10,Tablet,3,7.196195465,Credit Card,0,0
+1654,Female,60,Electronics,25-01-2023 08:52,Tablet,1,1,Debit Card,0,1
+1170,Female,62,Fitness,25-03-2023 16:18,Tablet,4,10.23746734,Credit Card,1,1
+1540,Male,48,Books,20-05-2023 21:56,Desktop,1,8.754640777,Debit Card,0,1
+1035,Female,40,Fashion,11-02-2023 15:12,Tablet,4,1.635530493,Cash on Delivery,0,0
+1524,Male,59,Fashion,11-04-2023 22:07,Tablet,3,12.02106433,Cash on Delivery,1,1
+1159,Male,27,Fashion,13-04-2023 08:59,Mobile,1,13.57936372,Credit Card,1,1
+1838,Male,49,Electronics,10-02-2023 22:58,Tablet,3,11.13517239,Cash on Delivery,0,0
+1698,Female,60,Electronics,16-02-2023 03:46,Mobile,4,8.379659124,PayPal,0,0
+1242,Male,47,Beauty,15-04-2023 14:51,Mobile,3,12.95721076,PayPal,0,0
+1085,Male,56,Fashion,13-01-2023 03:29,Tablet,1,13.4011018,Credit Card,0,1
+1795,Male,48,Books,21-05-2023 18:43,Mobile,1,11.53701785,Credit Card,0,0
+1577,Female,35,Fitness,31-01-2023 14:57,Desktop,3,5.876938748,Debit Card,1,0
+1681,Female,53,Books,16-01-2023 10:48,Desktop,2,11.38300383,Cash on Delivery,0,1
+1556,Female,19,Fitness,14-03-2023 19:49,Tablet,4,15.97740325,Debit Card,1,1
+1573,Female,31,Fashion,23-02-2023 15:51,Desktop,4,7.016854707,Debit Card,1,1
+1952,Female,30,Fashion,10-04-2023 10:20,Mobile,3,20.4896967,PayPal,1,1
+1645,Male,46,Fashion,28-03-2023 19:56,Desktop,2,7.37184533,PayPal,0,0
+1795,Female,29,Electronics,11-06-2023 12:55,Tablet,1,10.16203507,PayPal,1,1
+1027,Female,56,Fitness,07-01-2023 04:33,Tablet,5,6.63757202,PayPal,0,0
+1619,Female,19,Electronics,03-01-2023 17:31,Mobile,5,11.11635418,Debit Card,0,1
+1555,Male,49,Electronics,11-03-2023 15:39,Tablet,3,1.288891537,PayPal,0,0
+1339,Female,30,Toys,29-05-2023 08:59,Desktop,2,7.269791006,Cash on Delivery,0,1
+1797,Female,63,Books,23-02-2023 18:08,Tablet,2,4.539393998,PayPal,1,1
+1957,Male,44,Books,10-04-2023 21:15,Mobile,4,10.67669174,PayPal,0,1
+1330,Female,58,Beauty,13-01-2023 22:16,Tablet,1,14.97223688,PayPal,0,0
+1639,Male,34,Electronics,18-02-2023 01:57,Desktop,2,13.23003094,Credit Card,0,0
+1505,Male,57,Fitness,23-02-2023 09:24,Mobile,5,1,Cash on Delivery,0,1
+1347,Male,48,Toys,13-02-2023 00:52,Desktop,1,20.21034826,Cash on Delivery,0,0
+1472,Male,51,Toys,15-03-2023 09:17,Mobile,1,11.4763997,Debit Card,1,1
+1230,Male,41,Books,13-01-2023 18:45,Tablet,3,6.117504298,Debit Card,0,0
+1189,Female,62,Electronics,24-01-2023 14:27,Mobile,2,10.78563959,PayPal,0,1
+1224,Male,52,Beauty,22-05-2023 19:21,Mobile,3,10.88094911,Credit Card,0,0
+1384,Male,23,Electronics,12-06-2023 06:26,Tablet,2,6.665756415,Debit Card,0,1
+1376,Female,36,Fashion,21-04-2023 10:13,Desktop,4,10.98958334,Debit Card,0,1
+1282,Male,47,Electronics,17-01-2023 20:05,Tablet,3,6.962638562,PayPal,0,0
+1957,Female,24,Fashion,26-04-2023 09:00,Mobile,3,7.978190037,PayPal,1,0
+1632,Female,27,Fashion,20-06-2023 06:48,Tablet,5,6.568604321,Debit Card,0,0
+1627,Female,58,Beauty,02-05-2023 20:11,Mobile,3,2.836643551,Debit Card,0,0
+1972,Male,49,Fitness,31-03-2023 03:49,Tablet,2,10.72918235,Cash on Delivery,0,0
+1744,Male,51,Books,06-03-2023 01:58,Tablet,5,12.92649718,Credit Card,1,1
+1258,Male,45,Electronics,05-06-2023 13:03,Desktop,3,12.57441798,Cash on Delivery,0,0
+1358,Female,32,Fashion,24-06-2023 07:44,Mobile,3,14.09962626,Debit Card,0,0
+1709,Male,47,Electronics,14-04-2023 11:37,Desktop,4,11.62170105,Cash on Delivery,1,0
+1455,Male,54,Fitness,27-01-2023 02:54,Mobile,3,7.336372509,Cash on Delivery,0,0
+1410,Male,46,Books,11-06-2023 19:17,Tablet,1,14.19831932,Debit Card,0,0
+1648,Female,39,Fitness,15-05-2023 11:04,Mobile,5,3.212412301,PayPal,0,1
+1317,Female,21,Books,02-02-2023 00:54,Desktop,1,5.496643087,Debit Card,0,1
+1676,Male,37,Toys,07-01-2023 12:35,Desktop,5,5.178999643,PayPal,0,0
+1224,Male,49,Books,26-02-2023 00:11,Desktop,4,15.4002803,Debit Card,0,0
+1818,Male,53,Beauty,16-01-2023 11:59,Mobile,3,14.71394257,Debit Card,0,1
+1233,Male,21,Fitness,12-02-2023 06:12,Desktop,3,12.43652619,Debit Card,0,0
+1683,Female,44,Fashion,15-05-2023 20:51,Desktop,3,15.35964933,Credit Card,0,0
+1663,Female,34,Toys,21-04-2023 05:06,Desktop,5,5.603586088,PayPal,1,0
+1974,Female,29,Beauty,09-06-2023 05:30,Tablet,3,11.7429756,Credit Card,1,0
+1826,Female,39,Electronics,08-01-2023 03:44,Tablet,1,9.374127858,Debit Card,1,1
+1373,Male,34,Fitness,14-02-2023 20:37,Mobile,3,14.23441052,Cash on Delivery,0,1
+1671,Male,27,Fashion,28-02-2023 10:43,Mobile,4,9.423878837,Credit Card,0,0
+1607,Male,18,Books,14-04-2023 03:14,Desktop,1,8.075285558,PayPal,0,0
+1471,Female,39,Fashion,06-06-2023 08:08,Tablet,3,12.70454259,Debit Card,0,1
+1232,Male,43,Electronics,06-06-2023 10:09,Desktop,3,14.38084584,Credit Card,1,1
+1691,Female,35,Toys,05-06-2023 20:28,Desktop,2,6.658274026,Cash on Delivery,0,1
+1112,Female,31,Toys,20-03-2023 19:07,Tablet,5,9.694621643,Credit Card,0,1
+1829,Male,64,Fitness,21-06-2023 20:41,Tablet,1,4.707796832,PayPal,0,0
+1496,Male,46,Toys,04-01-2023 18:47,Tablet,2,1,Credit Card,0,1
+1441,Male,29,Fitness,17-05-2023 10:30,Mobile,4,11.00229816,Cash on Delivery,0,1
+1563,Female,53,Fitness,13-05-2023 10:07,Mobile,5,13.04452678,Cash on Delivery,0,0
+1267,Male,52,Fitness,27-06-2023 22:34,Desktop,1,11.31033405,PayPal,0,1
+1509,Female,29,Books,23-05-2023 08:59,Mobile,3,1,Cash on Delivery,1,0
+1806,Male,24,Beauty,22-01-2023 03:52,Tablet,1,8.24575285,Debit Card,0,0
+1385,Female,46,Fitness,17-01-2023 18:33,Tablet,3,1,Cash on Delivery,1,0
+1386,Female,28,Fitness,16-04-2023 00:25,Mobile,5,16.84850554,Debit Card,1,0
+1112,Male,50,Beauty,25-01-2023 23:37,Desktop,3,4.569727089,Credit Card,0,0
+1612,Female,23,Fashion,14-02-2023 22:42,Desktop,4,16.27701805,Debit Card,1,0
+1624,Female,64,Fitness,11-01-2023 07:40,Mobile,3,14.72934822,Debit Card,0,0
+1951,Male,32,Books,14-04-2023 18:11,Desktop,4,5.497048237,Credit Card,1,0
+1080,Female,49,Toys,05-04-2023 23:55,Desktop,5,4.336075244,Cash on Delivery,0,0
+1698,Male,28,Toys,06-03-2023 17:52,Desktop,5,11.75185108,Debit Card,0,0
+1112,Female,40,Electronics,24-06-2023 09:23,Tablet,1,5.778379814,Cash on Delivery,0,1
+1001,Male,43,Electronics,12-04-2023 03:35,Tablet,4,10.51242321,Credit Card,0,0
+1641,Male,51,Toys,26-02-2023 09:18,Mobile,4,7.585862046,PayPal,1,0
+1219,Female,63,Toys,08-06-2023 08:08,Tablet,2,1.094207928,Cash on Delivery,0,1
+1565,Female,51,Books,23-06-2023 21:05,Desktop,2,1,Cash on Delivery,0,1
+1854,Female,46,Beauty,26-01-2023 00:04,Tablet,2,11.13342124,PayPal,0,1
+1996,Female,21,Electronics,25-03-2023 06:00,Mobile,3,7.192211268,PayPal,1,0
+1735,Female,34,Beauty,23-02-2023 15:45,Tablet,2,7.234550915,Credit Card,0,0
+1224,Male,52,Books,15-06-2023 00:14,Desktop,4,13.4793192,Cash on Delivery,0,1
+1384,Female,30,Toys,02-03-2023 19:05,Desktop,3,15.86721138,Cash on Delivery,0,0
+1402,Male,58,Fitness,21-01-2023 07:32,Mobile,5,8.637276393,Credit Card,1,0
+1637,Male,56,Beauty,14-05-2023 21:57,Tablet,1,8.297006465,Cash on Delivery,0,0
+1129,Female,32,Toys,03-03-2023 09:57,Tablet,2,12.50071517,Debit Card,0,1
+1052,Male,46,Toys,19-03-2023 11:53,Tablet,5,3.215322152,Debit Card,0,0
+1683,Male,46,Fashion,15-02-2023 20:46,Desktop,4,11.11576527,Debit Card,1,1
+1729,Male,28,Beauty,03-01-2023 16:29,Mobile,1,12.75942986,Cash on Delivery,0,1
+1671,Male,49,Fitness,06-01-2023 18:36,Tablet,5,13.40115104,Debit Card,0,0
+1709,Female,19,Beauty,08-01-2023 08:12,Desktop,1,1,Debit Card,0,1
+1415,Male,64,Toys,18-04-2023 19:44,Desktop,2,6.193223651,Credit Card,1,1
+1246,Female,31,Fitness,16-03-2023 05:32,Desktop,4,5.608683736,Credit Card,1,1
+1835,Female,37,Books,19-02-2023 14:22,Tablet,1,10.49943477,PayPal,0,0
+1438,Male,39,Fashion,05-06-2023 04:31,Tablet,5,12.4037229,PayPal,0,1
+1202,Female,28,Toys,09-03-2023 21:15,Tablet,2,17.48355204,PayPal,0,0
+1183,Female,44,Electronics,17-02-2023 11:35,Tablet,2,7.525172598,PayPal,0,1
+1122,Female,20,Electronics,05-03-2023 18:33,Tablet,5,7.512137508,Credit Card,0,0
+1400,Male,34,Fashion,17-03-2023 19:22,Tablet,5,15.74836009,Credit Card,0,0
+1766,Female,61,Books,11-04-2023 04:33,Tablet,1,11.48288469,Credit Card,0,1
+1293,Female,45,Toys,19-01-2023 05:10,Tablet,3,16.33825756,Debit Card,1,1
+1279,Female,46,Beauty,12-04-2023 14:45,Tablet,2,11.44364002,Debit Card,0,0
+1836,Male,38,Fashion,03-06-2023 23:33,Desktop,1,4.214416906,PayPal,0,0
+1883,Female,64,Books,04-01-2023 10:19,Tablet,5,3.334358226,Debit Card,0,0
+1609,Male,33,Beauty,25-04-2023 13:16,Mobile,1,2.242438755,Cash on Delivery,0,1
+1197,Male,54,Electronics,28-02-2023 02:04,Desktop,5,13.31025917,Credit Card,0,1
+1981,Male,37,Electronics,08-04-2023 21:36,Tablet,4,15.94298412,PayPal,0,1
+1906,Male,23,Beauty,17-04-2023 04:04,Mobile,5,19.24681071,PayPal,0,0
+1510,Male,36,Fashion,21-03-2023 07:29,Tablet,5,14.21552666,Cash on Delivery,1,0
+1751,Male,22,Electronics,11-06-2023 21:10,Mobile,5,15.81419289,Debit Card,1,1
+1143,Female,20,Toys,08-01-2023 19:24,Mobile,3,7.099918337,PayPal,0,1
+1608,Male,18,Fitness,16-04-2023 00:07,Mobile,5,4.217920916,Debit Card,0,0
+1200,Female,55,Beauty,06-04-2023 08:14,Mobile,2,14.25039666,Debit Card,0,1
+1123,Female,32,Beauty,04-04-2023 13:52,Desktop,2,12.08840376,Cash on Delivery,0,0
+1186,Male,51,Electronics,20-06-2023 17:42,Desktop,1,10.53722187,PayPal,0,0
+1325,Female,52,Fashion,22-03-2023 03:06,Mobile,3,11.9368574,Debit Card,1,0
+1463,Female,42,Toys,25-03-2023 12:33,Tablet,1,11.61592741,Debit Card,1,0
+1348,Female,41,Fashion,27-03-2023 01:32,Mobile,2,16.4190843,Cash on Delivery,1,0
+1770,Female,29,Books,27-03-2023 17:47,Desktop,2,16.47492792,Cash on Delivery,0,0
+1659,Male,35,Books,17-05-2023 07:00,Tablet,4,12.72110176,Debit Card,1,0
+1763,Female,32,Fitness,15-03-2023 19:39,Desktop,5,14.22901436,Cash on Delivery,1,1
+1954,Male,61,Electronics,19-06-2023 21:18,Desktop,2,12.57031276,Debit Card,0,0
+1931,Female,33,Electronics,20-06-2023 02:49,Tablet,1,7.69415134,PayPal,0,0
+1402,Female,44,Electronics,14-04-2023 05:21,Mobile,1,13.78282337,Credit Card,1,0
+1345,Male,25,Fitness,24-02-2023 07:35,Mobile,5,3.027524656,Cash on Delivery,0,0
+1962,Female,63,Books,25-06-2023 13:09,Mobile,5,15.26945776,Credit Card,0,1
+1510,Female,42,Fashion,11-04-2023 19:38,Mobile,4,4.027385301,Debit Card,0,0
+1146,Female,34,Fitness,01-05-2023 05:48,Tablet,3,11.42901643,Debit Card,0,1
+1147,Male,46,Fitness,18-04-2023 19:56,Tablet,1,5.774230208,Debit Card,0,1
+1863,Female,25,Fashion,10-01-2023 12:19,Tablet,5,12.76694492,Credit Card,1,0
+1710,Male,32,Electronics,09-01-2023 21:10,Desktop,1,9.83037387,Debit Card,0,0
+1819,Female,44,Toys,04-06-2023 09:05,Tablet,5,2.026220209,Cash on Delivery,0,0
+1488,Male,63,Fashion,09-05-2023 10:00,Mobile,2,12.10349816,PayPal,0,0
+1928,Male,24,Books,03-04-2023 05:26,Desktop,1,7.110396116,PayPal,0,1
+1935,Female,20,Beauty,08-03-2023 16:19,Mobile,2,14.4057336,Cash on Delivery,0,0
+1639,Female,46,Beauty,28-05-2023 10:28,Mobile,1,10.00662844,PayPal,0,0
+1550,Male,61,Fitness,04-04-2023 23:02,Tablet,3,11.97710493,Credit Card,0,0
+1337,Male,41,Beauty,01-04-2023 11:57,Tablet,4,5.212155225,Debit Card,0,0
+1871,Female,20,Toys,17-01-2023 04:33,Mobile,2,7.053338843,Debit Card,0,0
+1640,Male,37,Electronics,22-06-2023 01:55,Mobile,5,7.706806819,Debit Card,0,0
+1778,Female,63,Books,03-04-2023 11:32,Desktop,3,14.2835124,Credit Card,0,0
+1987,Female,32,Toys,01-04-2023 18:25,Tablet,1,18.38688544,Credit Card,0,0
+1952,Female,42,Books,09-03-2023 16:00,Desktop,2,5.974141241,Credit Card,1,1
+1472,Female,47,Books,24-04-2023 18:01,Desktop,1,15.38424072,Cash on Delivery,0,1
+1945,Male,31,Electronics,03-06-2023 23:47,Desktop,1,1,Credit Card,0,0
+1150,Female,24,Fitness,26-04-2023 21:29,Mobile,1,4.029052995,PayPal,0,0
+1414,Male,34,Beauty,28-02-2023 17:44,Desktop,4,5.206107719,Cash on Delivery,0,1
+1989,Female,61,Electronics,15-04-2023 20:16,Desktop,4,3.237456553,Cash on Delivery,1,0
+1297,Male,37,Toys,25-05-2023 21:41,Mobile,5,2.082058051,Cash on Delivery,0,0
+1610,Female,53,Fitness,08-04-2023 16:55,Tablet,2,12.06499456,Credit Card,0,0
+1262,Male,26,Toys,18-06-2023 12:12,Tablet,3,8.929661511,Cash on Delivery,0,1
+1763,Male,55,Fitness,09-03-2023 11:48,Desktop,3,11.89702699,Credit Card,0,0
+1143,Female,39,Toys,19-05-2023 13:43,Mobile,3,13.45236343,Credit Card,1,1
+1345,Female,19,Electronics,28-06-2023 11:00,Tablet,1,11.32808497,Cash on Delivery,0,1
+1623,Female,41,Fitness,09-04-2023 09:47,Desktop,4,13.28881588,Debit Card,0,1
+1571,Female,25,Fitness,26-01-2023 06:42,Desktop,2,9.652338569,Debit Card,0,1
+1880,Male,28,Books,19-04-2023 11:39,Mobile,1,4.065033058,Cash on Delivery,0,0
+1001,Female,30,Books,16-02-2023 05:26,Desktop,4,15.2890709,Debit Card,1,0
+1896,Male,34,Fashion,03-06-2023 09:11,Tablet,4,7.054439336,PayPal,0,1
+1303,Male,25,Toys,13-05-2023 06:44,Mobile,2,5.322018506,PayPal,0,1
+1253,Female,38,Books,12-05-2023 13:10,Tablet,2,9.110410621,Credit Card,0,0
+1651,Male,35,Fashion,16-04-2023 01:23,Tablet,2,5.435945404,Debit Card,0,1
+1452,Male,47,Books,23-05-2023 12:33,Tablet,1,7.91284809,PayPal,0,0
+1036,Male,35,Toys,26-04-2023 18:52,Desktop,5,11.72026961,Cash on Delivery,0,0
+1159,Male,63,Fitness,16-05-2023 09:12,Desktop,2,11.7417087,Debit Card,0,0
+1008,Female,64,Beauty,22-04-2023 19:30,Tablet,5,5.510849668,PayPal,0,0
+1232,Female,48,Toys,22-04-2023 10:14,Tablet,1,7.561473135,PayPal,0,0
+1098,Female,55,Electronics,15-02-2023 15:23,Mobile,5,15.37166502,Cash on Delivery,1,0
+1658,Female,49,Books,09-03-2023 04:30,Mobile,3,12.48200059,Credit Card,0,0
+1815,Male,28,Books,14-06-2023 11:46,Desktop,5,20.3753252,Cash on Delivery,0,0
+1207,Male,62,Fitness,21-04-2023 21:43,Desktop,2,15.90064087,Credit Card,0,0
+1130,Female,42,Electronics,27-01-2023 00:39,Mobile,1,15.72146534,PayPal,0,1
+1403,Female,50,Fitness,13-06-2023 16:33,Tablet,2,3.060657248,Credit Card,0,0
+1151,Female,55,Electronics,24-01-2023 08:55,Desktop,3,13.81930176,PayPal,1,0
+1053,Male,58,Beauty,04-01-2023 04:49,Tablet,2,9.734465992,PayPal,0,0
+1119,Female,25,Books,26-06-2023 07:50,Mobile,2,7.245090982,Debit Card,0,0
+1672,Female,28,Books,26-04-2023 04:38,Desktop,2,10.8400767,Credit Card,0,1
+1919,Female,39,Beauty,19-04-2023 09:40,Desktop,4,14.72605767,Credit Card,0,0
+1627,Male,41,Fashion,05-04-2023 04:13,Mobile,3,12.50415796,Credit Card,0,1
+1586,Male,58,Fitness,03-03-2023 11:20,Desktop,2,5.607630993,Cash on Delivery,1,0
+1624,Male,34,Beauty,26-02-2023 11:39,Mobile,2,13.71229457,Debit Card,0,0
+1967,Male,29,Fitness,23-02-2023 22:29,Desktop,2,6.81206229,Debit Card,0,0
+1419,Male,63,Toys,11-04-2023 11:19,Mobile,1,11.08341559,Debit Card,0,0
+1421,Male,49,Books,15-05-2023 18:28,Desktop,4,8.483249663,Cash on Delivery,0,0
+1103,Male,32,Fitness,02-03-2023 03:31,Tablet,1,8.905668741,Credit Card,0,0
+1851,Male,33,Electronics,03-01-2023 06:23,Tablet,4,13.83121488,Credit Card,0,0
+1253,Female,39,Fitness,28-06-2023 05:41,Tablet,2,4.799031401,Credit Card,0,0
+1226,Female,45,Toys,16-02-2023 14:03,Desktop,3,19.72597537,Debit Card,0,1
+1111,Male,37,Books,07-02-2023 06:59,Desktop,5,1,Debit Card,0,0
+1509,Male,50,Beauty,18-06-2023 22:46,Tablet,5,7.011661584,PayPal,0,0
+1472,Female,27,Toys,27-02-2023 05:05,Tablet,2,11.85105945,Cash on Delivery,0,0
+1098,Male,57,Books,30-01-2023 11:41,Mobile,1,12.92157083,Cash on Delivery,0,0
+1152,Male,49,Fitness,11-04-2023 08:56,Mobile,3,9.497621397,Debit Card,0,0
+1860,Male,50,Fashion,22-04-2023 23:54,Mobile,4,9.713046485,PayPal,0,1
+1913,Female,19,Fashion,28-06-2023 03:25,Tablet,2,12.05275043,Credit Card,0,1
+1895,Female,50,Electronics,06-05-2023 08:15,Tablet,3,8.844652613,Debit Card,1,0
+1877,Female,50,Books,03-05-2023 17:50,Tablet,3,16.96590629,Cash on Delivery,0,0
+1337,Female,58,Fashion,28-04-2023 08:23,Mobile,4,14.19674557,Cash on Delivery,0,0
+1705,Female,30,Beauty,22-01-2023 03:32,Desktop,3,14.36412176,Cash on Delivery,0,1
+1821,Male,47,Books,23-02-2023 11:00,Tablet,1,5.169216383,Credit Card,0,0
+1162,Female,50,Beauty,16-01-2023 15:37,Desktop,1,9.603057878,Cash on Delivery,0,0
+1719,Male,30,Beauty,01-02-2023 07:22,Desktop,1,8.497670256,Credit Card,0,0
+1956,Male,43,Fashion,11-06-2023 12:46,Desktop,3,4.971993122,Credit Card,0,1
+1680,Female,39,Books,09-01-2023 16:16,Mobile,1,11.80082092,Credit Card,0,0
+1995,Female,56,Fitness,19-05-2023 00:09,Desktop,4,7.311771211,Debit Card,0,0
+1160,Male,19,Toys,17-01-2023 07:15,Tablet,3,13.27701915,Credit Card,1,1
+1579,Male,55,Fashion,21-04-2023 02:32,Mobile,5,4.649042186,PayPal,0,0
+1800,Male,56,Fashion,03-05-2023 15:16,Tablet,3,18.59520306,Cash on Delivery,0,1
+1397,Female,43,Fitness,11-04-2023 18:45,Tablet,4,5.518336707,Debit Card,0,0
+1276,Female,63,Books,06-03-2023 20:14,Mobile,5,11.09651169,Cash on Delivery,0,1
+1815,Female,32,Books,20-02-2023 18:24,Tablet,3,13.95929655,Credit Card,0,1
+1915,Female,51,Beauty,07-05-2023 18:31,Tablet,1,7.146797849,Debit Card,0,0
+1503,Female,59,Fitness,14-04-2023 18:39,Mobile,2,14.26234322,PayPal,0,1
+1895,Male,61,Fitness,16-06-2023 20:21,Tablet,2,3.854082011,Credit Card,0,0
+1391,Female,57,Books,01-01-2023 16:46,Desktop,1,17.2605885,Cash on Delivery,1,1
+1134,Male,28,Beauty,31-05-2023 23:21,Tablet,2,10.07074632,PayPal,1,0
+1194,Male,20,Fashion,16-06-2023 08:28,Desktop,2,7.01794296,Credit Card,0,1
+1400,Male,23,Electronics,06-05-2023 05:12,Tablet,1,8.504091138,PayPal,0,0
+1639,Female,26,Toys,22-03-2023 12:42,Mobile,1,14.04459635,Credit Card,0,1
+1032,Female,23,Fashion,18-06-2023 07:56,Mobile,3,7.077723541,Debit Card,0,0
+1687,Female,26,Books,14-03-2023 19:24,Tablet,3,6.253211553,Credit Card,0,1
+1459,Male,56,Toys,11-03-2023 04:21,Mobile,1,8.892317012,Debit Card,0,1
+1954,Male,48,Electronics,25-03-2023 22:11,Tablet,4,4.115189436,Credit Card,1,0
+1882,Male,49,Electronics,03-01-2023 22:40,Mobile,2,19.10271954,Credit Card,0,1
+1469,Male,58,Beauty,04-03-2023 09:20,Desktop,3,7.168027044,Cash on Delivery,0,1
+1374,Male,29,Toys,17-03-2023 02:54,Tablet,2,14.15808393,PayPal,0,0
+1021,Male,25,Beauty,19-04-2023 03:02,Desktop,5,11.04735042,PayPal,1,0
+1749,Female,25,Fashion,06-03-2023 16:02,Desktop,1,5.077329748,PayPal,0,0
+1669,Female,45,Fitness,15-01-2023 18:43,Tablet,4,9.970226454,Credit Card,0,0
+1037,Female,37,Fitness,01-02-2023 14:23,Desktop,5,13.9200139,Credit Card,0,0
+1229,Female,64,Fitness,08-05-2023 06:08,Tablet,5,9.058693325,Credit Card,1,0
+1364,Male,24,Toys,24-03-2023 00:42,Desktop,5,15.96556473,Debit Card,0,0
+1562,Male,28,Fitness,26-04-2023 08:07,Tablet,1,15.10757696,Debit Card,1,0
+1437,Female,37,Fashion,19-03-2023 13:45,Tablet,3,14.59457427,Cash on Delivery,0,0
+1775,Male,33,Beauty,02-02-2023 21:33,Mobile,1,7.701716139,Credit Card,0,1
+1282,Female,21,Toys,11-06-2023 11:40,Tablet,3,4.600787761,PayPal,0,1
+1026,Female,23,Beauty,12-05-2023 12:07,Tablet,5,6.932061973,PayPal,0,0
+1225,Female,39,Toys,28-02-2023 15:24,Desktop,5,10.9812047,Cash on Delivery,0,1
+1276,Male,43,Beauty,24-03-2023 15:01,Tablet,4,12.72893357,PayPal,1,1
+1797,Female,20,Electronics,01-05-2023 16:32,Mobile,3,1,Cash on Delivery,0,1
+1608,Female,58,Beauty,26-06-2023 19:51,Desktop,5,9.959433992,Credit Card,0,0
+1283,Female,59,Fitness,24-03-2023 03:12,Desktop,2,10.79044613,PayPal,0,0
+1878,Male,31,Electronics,27-01-2023 22:39,Mobile,4,8.612278718,Credit Card,0,1
+1959,Male,28,Beauty,14-05-2023 16:39,Desktop,1,16.4563692,Debit Card,0,1
+1480,Female,35,Toys,13-01-2023 21:03,Desktop,4,12.10890037,PayPal,0,1
+1452,Male,29,Toys,05-03-2023 10:58,Desktop,2,16.55095954,Debit Card,0,1
+1828,Male,40,Toys,21-03-2023 14:50,Desktop,3,8.920197398,PayPal,0,0
+1815,Male,29,Books,12-02-2023 18:32,Mobile,1,14.68738746,Credit Card,1,0
+1658,Male,30,Fashion,28-05-2023 18:38,Mobile,1,18.17533197,Cash on Delivery,0,0
+1515,Male,42,Toys,21-06-2023 19:34,Desktop,3,16.55846725,Credit Card,1,0
+1546,Male,62,Electronics,02-01-2023 23:19,Desktop,4,4.539292033,Credit Card,0,1
+1191,Male,36,Toys,22-01-2023 14:42,Mobile,5,8.731619612,Credit Card,0,0
+1048,Male,63,Books,26-02-2023 13:59,Mobile,4,8.274176473,PayPal,0,0
+1511,Male,53,Fitness,07-01-2023 20:29,Mobile,2,12.44627268,Cash on Delivery,0,1
+1016,Male,62,Electronics,29-04-2023 07:30,Desktop,5,13.43176778,Debit Card,1,0
+1171,Female,25,Books,24-04-2023 16:54,Desktop,4,5.80553663,Credit Card,0,1
+1219,Female,46,Fitness,24-03-2023 20:02,Tablet,3,10.33919257,PayPal,0,1
+1157,Male,49,Electronics,13-03-2023 19:07,Mobile,2,1,Debit Card,1,0
+1476,Female,61,Beauty,23-04-2023 17:15,Desktop,2,17.20972503,Credit Card,0,0
+1045,Female,35,Fashion,06-05-2023 05:30,Mobile,2,7.438128797,Debit Card,0,0
+1372,Male,23,Fashion,13-05-2023 21:46,Desktop,5,10.2793197,Credit Card,0,0
+1517,Male,35,Books,20-05-2023 23:44,Mobile,1,8.45175143,Debit Card,1,0
+1098,Male,36,Fitness,14-05-2023 18:40,Desktop,5,15.73013788,Debit Card,0,0
+1891,Female,39,Fashion,05-01-2023 09:28,Tablet,4,1,Cash on Delivery,0,1
+1744,Female,54,Fitness,05-06-2023 14:05,Tablet,1,9.916948288,Cash on Delivery,0,0
+1036,Male,49,Fitness,10-03-2023 01:57,Mobile,4,9.470906213,Credit Card,1,1
+1279,Male,58,Books,30-04-2023 18:02,Desktop,1,7.731818062,PayPal,0,0
+1348,Male,20,Books,02-02-2023 22:21,Desktop,5,18.63113273,Cash on Delivery,0,0
+1496,Female,45,Books,19-02-2023 00:18,Mobile,2,5.563352706,Debit Card,0,1
+1301,Female,27,Fashion,03-05-2023 09:18,Desktop,3,13.85898089,Cash on Delivery,1,0
+1180,Female,52,Books,16-06-2023 07:31,Mobile,2,11.78126394,Cash on Delivery,1,0
+1606,Female,46,Fashion,02-02-2023 19:24,Desktop,5,16.30759626,Credit Card,1,1
+1098,Male,32,Books,25-03-2023 06:30,Mobile,1,6.664054576,Cash on Delivery,0,1
+1699,Male,50,Toys,20-03-2023 03:34,Desktop,2,6.335155504,Cash on Delivery,0,1
+1992,Male,24,Fitness,14-01-2023 03:34,Mobile,5,15.48034954,Debit Card,0,0
+1115,Male,29,Books,27-05-2023 02:07,Desktop,4,12.12660654,Cash on Delivery,1,0
+1190,Female,47,Electronics,23-02-2023 12:39,Tablet,3,2.275313267,Debit Card,0,1
+1252,Female,38,Fitness,28-05-2023 17:32,Desktop,2,7.303474928,Cash on Delivery,0,1
+1980,Male,48,Fitness,24-01-2023 05:37,Mobile,1,11.93191327,Cash on Delivery,1,0
+1927,Male,41,Books,04-03-2023 11:53,Tablet,4,14.18882111,PayPal,0,1
+1982,Female,37,Beauty,15-04-2023 09:28,Desktop,5,6.603846734,Cash on Delivery,0,0
+1160,Male,54,Books,16-05-2023 03:37,Tablet,3,1,Debit Card,0,0
+1255,Female,21,Fitness,03-03-2023 03:21,Desktop,1,12.61611593,Debit Card,0,0
+1322,Male,45,Electronics,17-01-2023 05:21,Tablet,5,3.89839655,Credit Card,1,0
+1127,Male,61,Fitness,06-01-2023 22:28,Mobile,5,1,Credit Card,0,0
+1017,Male,37,Electronics,05-06-2023 22:21,Desktop,2,1,PayPal,0,0
+1792,Male,41,Fashion,18-06-2023 18:25,Desktop,2,14.0699043,Debit Card,0,0
+1734,Male,49,Toys,18-06-2023 20:27,Mobile,1,10.64308725,Debit Card,0,1
+1565,Male,58,Fitness,12-03-2023 16:58,Tablet,5,8.871718096,Debit Card,0,1
+1569,Male,53,Books,11-05-2023 12:57,Mobile,2,16.94512181,PayPal,0,1
+1322,Female,51,Fashion,08-04-2023 22:48,Mobile,3,13.18662342,Debit Card,0,1
+1871,Female,53,Toys,04-02-2023 03:27,Tablet,3,18.08150021,Credit Card,0,0
+1685,Female,19,Books,02-01-2023 09:45,Mobile,5,3.036322639,PayPal,0,0
+1791,Female,32,Beauty,15-06-2023 00:21,Desktop,2,9.82724688,Credit Card,0,1
+1625,Female,51,Books,03-06-2023 21:58,Desktop,1,1.916433125,Credit Card,1,0
+1287,Male,53,Electronics,06-06-2023 03:49,Desktop,1,8.853088341,PayPal,1,0
+1942,Male,23,Electronics,20-01-2023 09:12,Mobile,1,8.756920731,Cash on Delivery,1,0
+1853,Female,56,Beauty,28-05-2023 18:51,Desktop,3,13.13306819,Cash on Delivery,0,1
+1662,Male,59,Fashion,27-05-2023 09:55,Desktop,2,10.22781941,Credit Card,0,0
+1961,Female,29,Toys,21-04-2023 23:57,Desktop,2,13.11703569,Cash on Delivery,0,1
+1638,Female,20,Books,22-02-2023 13:21,Desktop,3,13.51720067,Debit Card,0,0
+1154,Male,62,Electronics,30-05-2023 19:17,Desktop,1,20.77464339,PayPal,0,1
+1489,Male,35,Fashion,27-01-2023 01:12,Desktop,1,8.423516724,Credit Card,0,1
+1385,Male,57,Beauty,06-04-2023 09:19,Mobile,5,5.294886497,Debit Card,1,1
+1985,Female,38,Fitness,11-03-2023 12:24,Desktop,4,11.23041808,Cash on Delivery,0,0
+1784,Male,32,Electronics,10-04-2023 18:02,Desktop,2,5.988599864,Debit Card,0,0
+1103,Female,50,Beauty,02-01-2023 06:52,Tablet,2,17.40980384,Cash on Delivery,1,1
+1928,Female,52,Books,06-03-2023 09:54,Mobile,2,8.583909805,Credit Card,0,0
+1392,Female,43,Toys,03-06-2023 04:25,Mobile,4,7.172118161,Debit Card,1,0
+1810,Male,25,Electronics,22-02-2023 18:22,Mobile,5,7.643421394,PayPal,1,0
+1245,Male,53,Electronics,28-02-2023 11:01,Mobile,4,13.59208712,Credit Card,1,1
+1175,Female,47,Books,28-06-2023 09:19,Desktop,1,9.211265084,Debit Card,0,0
+1038,Male,40,Fitness,29-05-2023 14:50,Desktop,1,6.791665899,Debit Card,0,1
+1476,Male,59,Fashion,22-01-2023 14:27,Tablet,2,18.32675959,Cash on Delivery,0,0
+1681,Male,61,Toys,08-04-2023 06:53,Tablet,3,5.719150797,Credit Card,0,0
+1758,Female,31,Electronics,25-01-2023 04:43,Mobile,2,10.17783037,Credit Card,0,1
+1537,Female,31,Toys,23-04-2023 05:00,Tablet,3,13.26153076,Credit Card,0,0
+1866,Male,19,Electronics,09-03-2023 17:10,Tablet,4,1.843324448,Credit Card,0,0
+1817,Female,54,Toys,18-02-2023 19:20,Mobile,1,12.40130251,Cash on Delivery,0,1
+1920,Male,22,Beauty,13-06-2023 01:22,Mobile,3,4.724461623,PayPal,1,1
+1407,Male,55,Electronics,09-05-2023 18:16,Tablet,4,14.1139139,Credit Card,1,0
+1524,Male,62,Toys,15-02-2023 10:17,Desktop,1,5.18674494,Cash on Delivery,0,1
+1827,Male,58,Fashion,09-06-2023 04:21,Tablet,3,13.46384516,PayPal,0,1
+1505,Female,64,Beauty,25-06-2023 19:49,Tablet,2,15.52916533,PayPal,1,1
+1902,Female,31,Beauty,25-05-2023 14:01,Desktop,2,14.30718263,Cash on Delivery,0,0
+1824,Female,56,Fashion,24-04-2023 00:53,Desktop,2,11.25658324,Credit Card,1,0
+1035,Male,42,Toys,27-06-2023 22:44,Mobile,4,8.843495285,PayPal,1,1
+1684,Male,37,Books,07-05-2023 23:52,Mobile,2,7.117902118,Credit Card,0,1
+1019,Male,19,Fashion,05-06-2023 06:06,Tablet,5,17.35517345,Credit Card,1,0
+1320,Female,56,Toys,15-01-2023 10:43,Desktop,1,6.502523899,Debit Card,0,0
+1775,Male,23,Fashion,03-04-2023 06:18,Mobile,4,4.814669632,Credit Card,0,0
+1511,Female,34,Fashion,14-03-2023 15:14,Tablet,2,13.32684468,Debit Card,0,0
+1399,Female,42,Electronics,02-04-2023 00:42,Desktop,1,6.019315984,PayPal,0,0
+1653,Female,45,Toys,01-05-2023 17:44,Tablet,3,5.249682513,Cash on Delivery,1,0
+1971,Female,19,Books,19-06-2023 03:31,Mobile,2,2.781978689,Debit Card,0,1
+1882,Female,52,Electronics,17-06-2023 00:38,Mobile,1,7.585450803,Cash on Delivery,0,0
+1470,Female,54,Fashion,23-04-2023 12:36,Desktop,5,9.586424881,PayPal,0,1
+1142,Male,22,Fitness,31-05-2023 18:54,Tablet,3,11.21545864,Credit Card,1,0
+1091,Male,18,Fashion,29-06-2023 17:50,Desktop,5,14.75653122,PayPal,1,0
+1353,Female,57,Fashion,04-03-2023 12:16,Mobile,1,12.63448962,Cash on Delivery,1,0
+1833,Female,29,Toys,20-04-2023 01:08,Mobile,5,9.045638902,PayPal,0,0
+1799,Male,53,Toys,12-02-2023 15:43,Tablet,1,9.009021618,Credit Card,0,1
+1726,Female,62,Electronics,03-02-2023 04:55,Tablet,1,12.55078734,PayPal,0,1
+1958,Female,40,Books,02-03-2023 15:45,Tablet,5,16.36285081,Credit Card,0,0
+1853,Male,64,Electronics,03-03-2023 22:17,Desktop,1,10.631571,Debit Card,0,0
+1050,Female,48,Beauty,10-06-2023 05:30,Tablet,2,7.654345729,Cash on Delivery,0,0
+1664,Female,28,Fashion,16-01-2023 05:37,Tablet,1,5.035669995,Credit Card,0,1
+1697,Female,27,Fitness,04-04-2023 22:07,Mobile,4,2.773973678,Credit Card,1,1
+1574,Male,20,Fashion,18-05-2023 22:41,Mobile,1,13.33134836,PayPal,0,0
+1189,Male,31,Fashion,07-02-2023 10:38,Tablet,4,12.88989262,Debit Card,0,1
+1124,Male,33,Electronics,19-01-2023 19:47,Tablet,1,12.88681763,Credit Card,0,1
+1149,Female,27,Fitness,04-03-2023 09:48,Mobile,1,9.356702768,Debit Card,1,0
+1313,Female,46,Fitness,23-06-2023 06:26,Tablet,5,17.03467373,Debit Card,1,0
+1569,Male,27,Fitness,12-04-2023 13:52,Desktop,2,7.579407527,PayPal,1,1
+1341,Female,29,Electronics,30-04-2023 10:02,Desktop,2,14.77634619,Credit Card,0,1
+1304,Female,47,Fashion,08-01-2023 11:30,Desktop,3,9.806285525,PayPal,1,0
+1691,Female,58,Electronics,14-03-2023 08:28,Tablet,5,6.958246177,Cash on Delivery,0,0
+1681,Female,18,Toys,14-05-2023 04:54,Mobile,5,12.96265154,Cash on Delivery,0,0
+1837,Female,22,Toys,23-04-2023 13:15,Tablet,2,12.04818059,Credit Card,1,0
+1782,Male,37,Electronics,07-04-2023 09:08,Tablet,5,11.7848638,Debit Card,0,1
+1053,Female,25,Fitness,17-05-2023 09:27,Mobile,2,10.40639211,Credit Card,0,0
+1443,Male,60,Fashion,26-03-2023 12:49,Mobile,5,9.810534591,Credit Card,0,1
+1612,Female,29,Electronics,27-02-2023 06:02,Mobile,1,21.94185996,Cash on Delivery,0,1
+1992,Male,18,Electronics,03-05-2023 20:11,Desktop,2,15.92128323,Cash on Delivery,1,0
+1263,Female,37,Electronics,17-06-2023 06:59,Tablet,2,13.61413447,Debit Card,0,0
+1052,Male,45,Beauty,24-04-2023 21:15,Mobile,4,10.55899579,Debit Card,0,0
+1571,Female,60,Toys,17-04-2023 22:38,Tablet,5,15.035786,Credit Card,0,1
+1619,Male,54,Fitness,02-04-2023 01:02,Desktop,5,12.58997388,PayPal,0,0
+1004,Female,64,Books,30-05-2023 08:31,Desktop,2,10.13102376,Credit Card,0,1
+1102,Male,54,Fitness,19-05-2023 20:08,Mobile,1,8.482178374,Debit Card,0,1
+1195,Female,29,Books,04-01-2023 20:37,Mobile,1,9.595413312,PayPal,0,0
+1773,Male,54,Beauty,15-05-2023 14:34,Tablet,1,1,Cash on Delivery,0,1
+1876,Male,61,Electronics,23-02-2023 01:27,Mobile,5,11.0530042,Debit Card,1,1
+1991,Female,45,Beauty,09-03-2023 16:27,Tablet,4,7.557619599,Debit Card,0,0
+1883,Female,64,Beauty,09-05-2023 13:42,Mobile,2,17.96334999,PayPal,0,0
+1349,Male,32,Fashion,03-01-2023 16:13,Tablet,3,10.09672035,Debit Card,0,1
+1046,Female,23,Toys,15-06-2023 02:00,Tablet,4,4.055182902,Debit Card,0,1
+1866,Male,61,Books,09-05-2023 17:41,Tablet,3,9.750599229,Debit Card,1,0
+1822,Male,37,Electronics,26-03-2023 16:47,Tablet,4,4.769394575,Debit Card,1,0
+1935,Male,31,Books,06-06-2023 10:44,Desktop,1,12.36703708,Debit Card,0,0
+1819,Female,19,Fitness,02-04-2023 00:20,Tablet,5,11.45473682,Debit Card,1,1
+1655,Male,26,Books,19-04-2023 05:02,Mobile,3,14.78919816,Debit Card,0,0
+1268,Male,54,Fitness,25-03-2023 13:22,Desktop,4,6.045591042,Debit Card,0,0
+1369,Female,37,Toys,10-03-2023 19:12,Desktop,5,10.17004048,Cash on Delivery,0,1
+1635,Female,43,Fitness,20-05-2023 04:42,Tablet,3,3.174891023,Debit Card,0,0
+1105,Female,46,Books,25-02-2023 12:25,Desktop,2,13.50747391,Cash on Delivery,0,1
+1669,Female,18,Books,23-01-2023 04:36,Tablet,4,12.5943559,Cash on Delivery,1,0
+1658,Male,52,Fitness,02-03-2023 22:22,Mobile,2,12.47902511,Credit Card,0,1
+1656,Male,23,Beauty,02-05-2023 00:51,Tablet,1,10.00809516,Credit Card,1,0
+1119,Male,54,Toys,29-03-2023 02:32,Desktop,2,12.07386445,Cash on Delivery,1,1
+1830,Male,22,Fashion,24-02-2023 09:03,Mobile,2,18.02169554,Cash on Delivery,0,1
+1786,Female,50,Electronics,24-02-2023 23:32,Tablet,4,8.574528715,Debit Card,0,0
+1603,Male,31,Books,05-02-2023 10:21,Mobile,1,10.69322592,Credit Card,0,0
+1057,Male,29,Electronics,26-06-2023 23:05,Mobile,2,4.569368504,PayPal,1,0
+1950,Female,59,Fashion,27-02-2023 13:26,Desktop,5,5.658695192,Credit Card,0,0
+1345,Male,37,Electronics,21-03-2023 01:36,Mobile,3,10.48906647,Cash on Delivery,0,1
+1740,Male,41,Fashion,23-04-2023 20:36,Desktop,2,15.51966773,Cash on Delivery,0,1
+1473,Male,60,Fitness,02-03-2023 02:16,Mobile,1,8.718595879,Debit Card,0,0
+1116,Male,51,Beauty,06-01-2023 16:50,Tablet,2,8.820417353,Debit Card,0,1
+1829,Male,42,Books,19-04-2023 09:06,Mobile,3,7.965573777,Credit Card,0,1
+1790,Male,46,Fashion,08-02-2023 11:01,Tablet,1,7.326216646,Debit Card,0,1
+1126,Female,56,Electronics,18-06-2023 10:29,Tablet,4,11.47485728,PayPal,0,0
+1392,Female,48,Books,05-01-2023 01:26,Mobile,1,2.513711774,PayPal,0,0
+1907,Male,64,Beauty,17-03-2023 07:50,Tablet,4,16.40469788,Debit Card,0,0
+1640,Male,60,Fitness,07-06-2023 13:44,Mobile,1,6.672888509,PayPal,0,0
+1057,Female,40,Books,07-05-2023 12:05,Mobile,3,13.60951743,PayPal,0,0
+1633,Male,61,Fashion,29-01-2023 21:02,Tablet,3,3.650007013,Credit Card,0,0
+1512,Male,55,Beauty,14-06-2023 10:52,Tablet,1,13.34420065,PayPal,0,0
+1750,Male,37,Electronics,09-06-2023 23:15,Desktop,2,13.35972304,Cash on Delivery,0,1
+1801,Female,40,Beauty,22-04-2023 17:48,Tablet,3,11.92101036,Cash on Delivery,0,0
+1095,Male,62,Beauty,25-05-2023 21:10,Desktop,4,5.027857391,Credit Card,0,0
+1637,Female,33,Toys,14-04-2023 09:56,Tablet,4,11.24774095,Debit Card,0,0
+1117,Male,59,Beauty,14-05-2023 10:19,Mobile,5,4.084719076,Credit Card,0,0
+1559,Female,25,Beauty,18-01-2023 11:01,Tablet,4,8.736183725,Debit Card,1,0
+1600,Female,38,Books,02-02-2023 23:57,Mobile,5,15.1470655,Debit Card,1,0
+1487,Male,18,Electronics,06-05-2023 03:54,Mobile,1,13.98350964,Debit Card,1,0
+1236,Female,25,Books,09-06-2023 15:37,Mobile,1,10.07591471,Debit Card,1,0
+1884,Male,46,Books,02-05-2023 16:59,Desktop,1,5.12596712,Debit Card,0,0
+1896,Female,49,Fashion,25-04-2023 15:31,Tablet,2,13.22793856,Credit Card,0,0
+1271,Male,55,Books,11-06-2023 20:57,Mobile,2,10.09690619,Debit Card,0,1
+1188,Male,22,Toys,28-01-2023 17:14,Mobile,5,1,PayPal,0,0
+1998,Female,64,Toys,16-06-2023 04:06,Desktop,4,13.91314913,PayPal,0,0
+1703,Male,39,Fashion,16-02-2023 12:37,Tablet,4,9.878835831,Debit Card,1,0
+1446,Male,64,Fitness,07-05-2023 02:26,Tablet,1,16.01225624,PayPal,0,0
+1580,Female,51,Electronics,28-04-2023 23:25,Desktop,3,4.523647406,Cash on Delivery,0,0
+1789,Male,18,Electronics,05-06-2023 06:02,Desktop,2,1,Credit Card,0,0
+1860,Male,43,Books,17-05-2023 19:58,Tablet,2,11.39541929,Credit Card,0,1
+1246,Female,60,Books,02-02-2023 15:57,Desktop,1,11.45781838,Debit Card,0,0
+1962,Female,27,Fitness,19-01-2023 03:14,Tablet,2,1.546641862,Debit Card,1,0
+1075,Male,47,Books,15-03-2023 02:54,Tablet,1,5.107502271,Cash on Delivery,0,1
+1153,Male,35,Electronics,06-06-2023 15:45,Mobile,5,23.77608872,Debit Card,1,1
+1655,Female,34,Beauty,08-04-2023 02:20,Mobile,4,8.471946929,PayPal,0,0
+1434,Female,43,Toys,09-05-2023 15:29,Tablet,3,13.65479488,Cash on Delivery,1,0
+1996,Male,25,Beauty,03-04-2023 03:58,Tablet,4,6.746700863,PayPal,0,0
+1085,Female,64,Beauty,17-02-2023 04:04,Tablet,4,1,Credit Card,0,0
+1696,Male,57,Electronics,05-03-2023 22:20,Tablet,5,9.148708766,PayPal,0,0
+1284,Male,29,Beauty,06-06-2023 04:54,Tablet,2,8.671977199,Credit Card,1,0
+1973,Male,44,Fitness,08-05-2023 14:15,Tablet,3,8.000608807,PayPal,1,1
+1219,Male,25,Fashion,26-01-2023 00:16,Desktop,2,9.426795822,Credit Card,0,0
+1068,Male,42,Books,12-03-2023 21:32,Tablet,4,11.32134136,Debit Card,0,0
+1046,Female,63,Fashion,10-03-2023 05:04,Desktop,1,9.249415244,PayPal,1,0
+1093,Female,21,Toys,07-01-2023 22:17,Desktop,4,3.67996916,Credit Card,0,1
+1749,Female,50,Books,18-02-2023 18:46,Tablet,2,12.43092396,PayPal,0,0
+1957,Female,18,Beauty,22-02-2023 03:12,Tablet,4,1,Cash on Delivery,0,1
+1452,Male,36,Toys,03-03-2023 08:48,Desktop,1,1,Debit Card,0,0
+1203,Male,48,Books,20-06-2023 04:10,Desktop,5,13.69590247,Credit Card,1,0
+1911,Male,33,Fitness,11-05-2023 20:30,Tablet,2,12.53510136,Cash on Delivery,1,0
+1217,Male,31,Fitness,29-01-2023 06:55,Tablet,4,9.713023175,PayPal,0,0
+1473,Female,22,Fitness,26-01-2023 23:23,Desktop,2,3.022757476,Cash on Delivery,0,0
+1431,Male,58,Fitness,24-05-2023 00:24,Desktop,5,6.460445297,PayPal,1,0
+1340,Male,43,Beauty,23-02-2023 11:07,Desktop,4,8.686266262,Debit Card,0,0
+1550,Female,45,Fashion,14-03-2023 10:31,Mobile,4,2.020530157,Cash on Delivery,1,1
+1611,Female,19,Books,25-02-2023 18:36,Desktop,2,6.30485671,Debit Card,0,0
+1288,Female,23,Beauty,27-03-2023 05:35,Mobile,2,13.26165169,Credit Card,0,0
+1253,Female,26,Fitness,18-06-2023 08:18,Tablet,1,17.13652682,PayPal,1,0
+1733,Male,50,Fashion,18-04-2023 15:46,Tablet,5,7.902826237,PayPal,0,1
+1356,Male,58,Toys,28-04-2023 20:22,Desktop,1,13.78244177,Debit Card,0,1
+1022,Female,42,Toys,06-06-2023 05:38,Tablet,4,1,Debit Card,0,0
+1761,Male,30,Toys,27-05-2023 16:01,Tablet,2,13.29725621,Credit Card,0,0
+1521,Male,26,Fitness,18-06-2023 07:08,Tablet,4,5.980257926,Cash on Delivery,0,0
+1757,Male,30,Toys,15-01-2023 14:58,Tablet,4,11.53672808,PayPal,1,1
+1836,Female,48,Electronics,19-05-2023 15:41,Mobile,3,8.761237909,PayPal,1,1
+1099,Male,58,Books,30-01-2023 00:56,Mobile,3,16.60207005,Credit Card,0,0
+1801,Female,28,Books,26-05-2023 07:14,Desktop,4,5.627821758,Credit Card,0,0
+1179,Male,21,Fitness,08-05-2023 09:19,Desktop,2,13.13803149,Debit Card,0,0
+1222,Male,51,Electronics,16-05-2023 08:53,Desktop,4,8.602462684,Debit Card,0,0
+1905,Male,55,Beauty,06-01-2023 11:55,Tablet,3,9.20847261,Cash on Delivery,0,1
+1761,Female,63,Beauty,14-04-2023 04:51,Tablet,2,9.080730534,Credit Card,1,0
+1658,Male,21,Toys,20-03-2023 12:11,Mobile,4,5.771634478,Cash on Delivery,0,0
+1441,Female,55,Fashion,26-04-2023 13:44,Mobile,5,9.92950517,Credit Card,1,1
+1607,Female,36,Beauty,18-02-2023 11:24,Desktop,5,9.686758889,PayPal,0,1
+1768,Female,23,Fashion,23-03-2023 13:53,Mobile,4,11.20620124,Credit Card,0,0
+1324,Male,51,Books,18-03-2023 09:16,Mobile,2,10.42252573,Credit Card,0,1
+1515,Male,35,Fashion,20-03-2023 08:51,Mobile,4,13.98997275,PayPal,0,0
+1015,Male,30,Books,03-05-2023 05:22,Mobile,4,14.61754308,Credit Card,0,1
+1791,Male,58,Electronics,24-03-2023 00:02,Mobile,3,4.746883391,Cash on Delivery,1,1
+1335,Female,40,Electronics,05-03-2023 00:39,Desktop,5,14.3438625,Debit Card,0,0
+1758,Female,36,Fitness,28-02-2023 15:50,Desktop,3,4.068317864,Debit Card,1,1
+1257,Female,62,Fitness,03-03-2023 10:43,Mobile,3,12.93927944,Cash on Delivery,0,1
+1496,Male,28,Toys,01-03-2023 14:02,Desktop,4,13.09869392,PayPal,1,0
+1987,Female,18,Beauty,02-05-2023 10:18,Tablet,3,1,Credit Card,0,0
+1895,Male,41,Toys,06-04-2023 23:57,Mobile,5,10.46489623,Cash on Delivery,1,1
+1159,Female,24,Books,10-05-2023 18:05,Tablet,3,7.657519433,Debit Card,0,0
+1474,Male,42,Toys,18-02-2023 15:04,Desktop,5,6.20617371,Debit Card,1,0
+1851,Male,38,Fashion,02-04-2023 11:10,Desktop,3,16.75426165,Cash on Delivery,1,1
+1663,Female,32,Books,04-05-2023 05:16,Tablet,5,6.731604297,Debit Card,0,1
+1907,Female,18,Fitness,17-02-2023 23:52,Desktop,3,5.968115354,Cash on Delivery,0,0
+1689,Female,29,Electronics,13-06-2023 19:19,Mobile,3,10.3784747,Debit Card,0,0
+1674,Female,24,Fitness,27-02-2023 23:11,Tablet,2,13.42794873,Cash on Delivery,1,0
+1379,Male,32,Beauty,22-06-2023 13:26,Mobile,5,9.29175707,Credit Card,0,0
+1544,Female,38,Books,27-02-2023 22:58,Tablet,5,15.83185273,Credit Card,0,0
+1928,Female,36,Books,13-02-2023 09:30,Desktop,5,12.65487831,Credit Card,0,1
+1956,Female,46,Fashion,12-03-2023 18:35,Tablet,1,1,Credit Card,0,0
+1690,Male,42,Beauty,09-01-2023 14:54,Tablet,3,7.352665182,Debit Card,1,0
+1426,Male,50,Electronics,14-05-2023 15:24,Mobile,5,7.190789503,PayPal,0,0
+1612,Female,49,Books,25-05-2023 23:43,Desktop,1,12.39680477,Cash on Delivery,0,1
+1267,Male,52,Books,11-05-2023 14:17,Mobile,2,1,PayPal,1,0
+1834,Female,61,Fashion,05-02-2023 08:09,Desktop,5,22.74504854,Debit Card,0,0
+1576,Male,55,Toys,03-03-2023 15:37,Mobile,5,12.65513047,Debit Card,0,0
+1416,Male,43,Electronics,17-03-2023 21:32,Tablet,1,10.74438402,PayPal,0,0
+1167,Male,28,Fitness,11-01-2023 00:53,Mobile,3,15.90783858,PayPal,0,0
+1841,Male,52,Beauty,16-01-2023 10:15,Desktop,2,21.71827026,Debit Card,0,0
+1042,Female,25,Books,28-02-2023 17:43,Desktop,5,14.35373322,Debit Card,1,0
+1555,Female,63,Books,10-05-2023 12:13,Tablet,3,14.74406548,Cash on Delivery,0,0
+1284,Female,31,Fitness,18-05-2023 04:59,Desktop,2,10.65345012,Credit Card,0,0
+1396,Male,27,Electronics,19-05-2023 20:30,Mobile,4,9.292371233,Credit Card,0,0
+1011,Female,19,Toys,21-03-2023 09:52,Tablet,4,7.62102278,Cash on Delivery,0,0
+1606,Female,63,Books,02-01-2023 20:01,Desktop,2,5.869440041,PayPal,1,0
+1301,Female,26,Electronics,20-05-2023 06:10,Desktop,1,6.564929502,Debit Card,0,0
+1897,Male,20,Fitness,31-03-2023 13:10,Mobile,2,3.247220178,PayPal,0,0
+1252,Male,38,Fashion,26-05-2023 22:21,Mobile,2,9.620642747,Credit Card,0,1
+1498,Male,43,Toys,23-04-2023 06:23,Tablet,1,1.576662114,Credit Card,0,0
+1753,Female,25,Beauty,03-03-2023 08:24,Desktop,1,10.95458262,PayPal,0,0
+1034,Female,19,Books,15-06-2023 20:45,Mobile,3,9.81834696,Credit Card,0,0
+1726,Female,23,Electronics,02-03-2023 19:12,Tablet,3,10.73467649,Debit Card,0,1
+1848,Male,45,Fashion,22-06-2023 02:35,Desktop,1,7.38934215,Cash on Delivery,1,1
+1089,Male,46,Beauty,29-05-2023 23:21,Desktop,4,25.38430185,PayPal,0,0
+1775,Female,43,Electronics,20-04-2023 15:22,Tablet,4,16.8005795,Debit Card,1,0
+1604,Male,42,Electronics,10-04-2023 15:02,Tablet,2,3.7772875,Debit Card,1,0
+1921,Male,29,Beauty,22-01-2023 16:38,Mobile,5,11.16434044,Credit Card,0,0
+1969,Male,22,Fashion,12-05-2023 14:46,Desktop,2,6.959969285,Debit Card,0,0
+1601,Male,51,Fitness,11-03-2023 22:43,Desktop,2,4.927601366,PayPal,0,1
+1417,Female,54,Fashion,11-04-2023 05:39,Desktop,5,3.299639644,Debit Card,0,0
+1114,Male,32,Toys,10-06-2023 06:31,Tablet,1,12.16108345,Cash on Delivery,1,1
+1616,Male,61,Books,01-01-2023 09:34,Mobile,4,6.593098825,Debit Card,0,0
+1902,Male,53,Beauty,22-01-2023 18:13,Desktop,2,14.83913012,Debit Card,0,1
+1195,Male,32,Fitness,05-05-2023 06:44,Tablet,5,14.96891107,Cash on Delivery,0,1
+1825,Female,60,Beauty,06-04-2023 13:47,Desktop,3,16.86957193,Debit Card,0,0
+1500,Female,40,Beauty,30-04-2023 11:29,Mobile,2,5.73806617,Debit Card,0,0
+1625,Male,23,Fashion,25-06-2023 15:01,Desktop,4,12.37682805,Credit Card,1,0
+1492,Male,63,Books,25-02-2023 06:05,Mobile,1,13.16227108,PayPal,0,0
+1074,Male,61,Toys,06-06-2023 07:34,Mobile,2,7.629109124,Credit Card,1,0
+1412,Male,60,Electronics,14-04-2023 01:16,Desktop,2,6.141140213,PayPal,0,0
+1375,Male,62,Electronics,26-05-2023 21:21,Desktop,5,18.04760333,Cash on Delivery,0,0
+1419,Male,38,Beauty,08-01-2023 05:30,Mobile,3,11.13747938,Cash on Delivery,0,1
+1728,Female,40,Books,05-05-2023 11:27,Tablet,3,13.17983875,Cash on Delivery,0,0
+1276,Male,60,Fitness,27-01-2023 21:39,Mobile,1,5.889619941,PayPal,0,1
+1760,Female,33,Fashion,20-05-2023 04:58,Desktop,4,3.903577667,PayPal,1,0
+1675,Female,64,Books,31-01-2023 18:34,Desktop,1,7.152751128,PayPal,1,1
+1393,Male,32,Books,02-03-2023 07:37,Tablet,2,9.379893063,Cash on Delivery,0,0
+1868,Female,42,Fashion,19-04-2023 14:18,Mobile,2,4.678899966,PayPal,0,0
+1456,Female,53,Beauty,12-06-2023 05:50,Mobile,3,9.950775957,Debit Card,0,1
+1919,Female,28,Books,23-05-2023 23:43,Mobile,4,1.55747406,Credit Card,1,0
+1191,Female,32,Electronics,13-01-2023 13:22,Desktop,5,4.399762888,Cash on Delivery,0,1
+1738,Female,21,Fashion,29-05-2023 08:18,Mobile,4,13.35455624,Credit Card,1,0
+1688,Female,38,Fitness,07-06-2023 08:27,Tablet,2,13.0189526,Debit Card,0,0
+1098,Male,30,Toys,17-02-2023 08:20,Desktop,5,8.040616173,PayPal,0,0
+1547,Female,39,Beauty,04-02-2023 09:57,Desktop,4,4.911178455,Credit Card,1,1
+1977,Female,36,Fashion,15-06-2023 23:58,Mobile,4,4.862982242,Debit Card,0,0
+1998,Female,51,Toys,01-06-2023 01:53,Tablet,5,8.13365877,Debit Card,0,1
+1095,Male,31,Toys,26-06-2023 16:31,Desktop,2,13.22259246,Credit Card,0,1
+1663,Female,21,Fitness,10-04-2023 03:26,Desktop,4,14.64122846,Cash on Delivery,0,0
+1662,Male,63,Books,09-04-2023 08:34,Mobile,5,7.517341323,Credit Card,0,0
+1189,Female,44,Fitness,26-03-2023 19:08,Mobile,2,4.23253787,Cash on Delivery,0,1
+1735,Male,46,Books,18-05-2023 05:38,Tablet,5,11.33921819,PayPal,1,0
+1036,Male,64,Books,25-01-2023 01:07,Mobile,5,5.882325147,Cash on Delivery,0,0
+1779,Female,45,Fashion,02-03-2023 06:22,Tablet,4,7.408736806,PayPal,1,0
+1368,Female,52,Fashion,19-01-2023 11:22,Desktop,2,16.62638045,Credit Card,0,0
+1694,Male,25,Beauty,15-03-2023 09:32,Tablet,4,14.13557714,PayPal,0,0
+1524,Female,33,Books,20-06-2023 21:39,Tablet,1,10.78987156,Debit Card,0,0
+1278,Male,59,Toys,17-02-2023 03:30,Tablet,1,3.640404994,PayPal,0,1
+1216,Male,53,Electronics,28-03-2023 10:50,Desktop,2,11.05698284,Cash on Delivery,0,0
+1866,Male,47,Beauty,20-04-2023 16:33,Mobile,5,15.31328645,Cash on Delivery,1,0
+1872,Male,35,Fashion,28-01-2023 20:14,Desktop,4,8.121831671,Cash on Delivery,0,1
+1797,Male,19,Fitness,28-02-2023 15:00,Mobile,4,16.75557045,PayPal,0,1
+1272,Female,30,Beauty,20-02-2023 12:59,Tablet,2,16.46372645,Cash on Delivery,0,1
+1880,Male,21,Beauty,19-02-2023 18:56,Tablet,2,18.31866416,Cash on Delivery,1,0
+1061,Male,43,Beauty,19-06-2023 17:17,Tablet,1,11.52621563,Debit Card,1,1
+1595,Female,42,Beauty,01-02-2023 03:08,Tablet,3,12.9369585,PayPal,0,0
+1879,Male,47,Electronics,26-05-2023 19:38,Tablet,2,17.07093644,Debit Card,0,0
+1728,Female,28,Fitness,24-02-2023 11:33,Mobile,3,12.23696969,Cash on Delivery,0,0
+1341,Female,24,Fitness,30-04-2023 07:50,Mobile,2,7.493829461,Cash on Delivery,0,0
+1396,Female,48,Fitness,16-03-2023 04:36,Tablet,5,7.757285817,Cash on Delivery,0,1
+1698,Male,61,Books,21-06-2023 22:46,Desktop,5,11.19277477,PayPal,0,0
+1018,Male,27,Toys,18-06-2023 09:30,Desktop,1,3.54719289,Credit Card,0,1
+1176,Male,56,Fitness,30-03-2023 16:40,Tablet,1,9.283705423,Cash on Delivery,0,1
+1611,Female,30,Beauty,30-05-2023 13:52,Mobile,3,15.48273559,Cash on Delivery,0,0
+1395,Male,48,Beauty,05-03-2023 13:58,Desktop,2,1,Cash on Delivery,1,0
+1444,Female,24,Fitness,04-01-2023 03:12,Desktop,4,17.67241051,Cash on Delivery,1,0
+1232,Male,59,Fitness,23-05-2023 10:15,Desktop,1,15.61187109,PayPal,0,0
+1914,Female,59,Beauty,30-05-2023 15:42,Tablet,4,7.701176921,Credit Card,0,0
+1075,Male,53,Books,03-04-2023 07:09,Desktop,4,12.71695414,Credit Card,0,1
+1264,Male,37,Fashion,22-05-2023 23:47,Desktop,2,10.01573863,Credit Card,0,0
+1454,Male,21,Fashion,27-06-2023 18:55,Desktop,3,16.14995184,Cash on Delivery,1,0
+1795,Female,24,Fitness,10-06-2023 06:14,Desktop,2,14.91341571,Cash on Delivery,0,1
+1717,Female,18,Electronics,28-02-2023 17:46,Mobile,1,2.999646384,Credit Card,1,0
+1734,Male,61,Fitness,12-01-2023 21:59,Tablet,4,12.93631207,Credit Card,1,1
+1383,Male,62,Fitness,28-04-2023 08:51,Tablet,2,8.971860732,Cash on Delivery,0,0
+1563,Female,59,Fashion,15-06-2023 10:42,Mobile,2,10.41416285,Cash on Delivery,0,0
+1850,Female,64,Beauty,05-06-2023 20:07,Mobile,2,6.359140495,Debit Card,0,0
+1505,Female,30,Fitness,31-03-2023 18:37,Tablet,1,18.74068535,Debit Card,0,0
+1366,Male,39,Beauty,13-01-2023 16:12,Desktop,3,15.2003091,Debit Card,0,0
+1143,Female,38,Beauty,07-03-2023 13:24,Desktop,2,6.30114418,Credit Card,0,1
+1884,Male,39,Electronics,26-06-2023 12:21,Tablet,1,3.326946965,PayPal,1,0
+1068,Female,45,Beauty,07-03-2023 14:35,Desktop,4,8.071636845,Cash on Delivery,0,1
+1098,Male,26,Fashion,17-06-2023 19:33,Mobile,5,12.17251323,Debit Card,0,0
+1395,Female,43,Books,28-05-2023 17:11,Desktop,1,11.20102922,PayPal,0,0
+1024,Female,26,Books,29-01-2023 04:55,Desktop,5,16.26566412,Cash on Delivery,0,0
+1947,Female,32,Toys,07-06-2023 10:39,Desktop,2,13.94959861,PayPal,0,1
+1890,Female,27,Fitness,25-03-2023 10:27,Tablet,2,14.84784513,Credit Card,1,0
+1468,Female,41,Fashion,24-05-2023 15:41,Mobile,1,11.634277,Credit Card,0,0
+1483,Male,59,Beauty,03-03-2023 08:38,Desktop,5,3.053506349,Credit Card,0,1
+1564,Female,25,Books,14-02-2023 15:54,Tablet,2,9.021507344,Debit Card,0,0
+1150,Female,41,Fashion,25-06-2023 02:34,Desktop,4,15.3004487,Cash on Delivery,0,1
+1143,Female,33,Books,29-03-2023 21:19,Mobile,3,9.742385357,Credit Card,1,0
+1568,Male,43,Beauty,14-03-2023 15:30,Desktop,3,12.51545184,Debit Card,0,1
+1038,Female,44,Books,28-06-2023 03:31,Mobile,2,8.406258424,Debit Card,1,1
+1108,Male,54,Fitness,06-02-2023 20:57,Desktop,5,4.850940757,Debit Card,0,1
+1692,Female,21,Fitness,29-04-2023 13:44,Mobile,2,9.38327968,Debit Card,0,0
+1041,Female,41,Toys,08-01-2023 20:30,Desktop,5,11.54523722,Credit Card,0,0
+1185,Male,36,Toys,05-04-2023 14:44,Mobile,4,6.721561403,Debit Card,0,1
+1934,Female,53,Books,20-04-2023 04:35,Desktop,5,8.821443776,Credit Card,0,0
+1397,Male,56,Fashion,04-05-2023 22:12,Desktop,2,5.30268379,Credit Card,1,0
+1222,Male,27,Fitness,29-04-2023 21:31,Tablet,4,15.59622459,Debit Card,0,1
+1633,Female,42,Fashion,26-06-2023 18:07,Tablet,1,8.527721212,Credit Card,0,0
+1132,Male,35,Fashion,11-02-2023 22:53,Mobile,3,17.26377773,Cash on Delivery,0,0
+1162,Female,36,Books,06-06-2023 08:13,Desktop,2,17.64373925,Cash on Delivery,0,0
+1214,Female,53,Fashion,11-01-2023 18:41,Mobile,2,9.594770176,PayPal,0,0
+1732,Male,27,Fitness,27-06-2023 18:14,Tablet,2,4.957756337,Cash on Delivery,0,0
+1234,Male,50,Beauty,18-04-2023 09:29,Mobile,4,1,Credit Card,0,1
+1842,Male,22,Toys,03-02-2023 12:42,Mobile,1,2.639814635,Credit Card,0,0
+1657,Male,64,Beauty,20-01-2023 00:49,Tablet,5,3.130825876,Cash on Delivery,0,1
+1750,Female,52,Fashion,12-04-2023 12:07,Desktop,1,16.89234814,Debit Card,0,1
+1587,Female,61,Beauty,18-05-2023 15:27,Mobile,4,10.57912294,Debit Card,0,1
+1008,Male,51,Fitness,21-02-2023 13:02,Tablet,2,11.94802262,Credit Card,0,0
+1073,Female,50,Fitness,25-03-2023 09:43,Desktop,3,1,Debit Card,1,1
+1953,Female,38,Fashion,09-02-2023 03:55,Tablet,2,4.010167854,PayPal,0,0
+1491,Female,34,Books,25-02-2023 05:59,Mobile,5,14.43539888,PayPal,0,0
+1912,Female,39,Beauty,19-05-2023 01:49,Desktop,3,11.43387056,Cash on Delivery,0,1
+1252,Male,54,Books,16-05-2023 18:36,Desktop,2,9.263973607,Cash on Delivery,0,0
+1229,Male,32,Books,04-04-2023 09:27,Tablet,3,12.82421179,Debit Card,1,1
+1518,Female,52,Electronics,01-03-2023 10:49,Tablet,1,18.17898903,Credit Card,0,0
+1173,Male,45,Fashion,08-02-2023 17:52,Tablet,4,8.894787682,Cash on Delivery,1,1
+1652,Male,24,Toys,13-06-2023 10:36,Desktop,2,10.34684901,PayPal,1,0
+1167,Male,49,Fitness,13-01-2023 00:35,Desktop,5,10.96298459,Cash on Delivery,0,1
+1169,Female,28,Fitness,11-04-2023 18:29,Mobile,1,21.96054818,Cash on Delivery,0,0
+1392,Female,27,Fashion,04-01-2023 20:46,Desktop,2,1,PayPal,0,0
+1945,Female,26,Toys,23-03-2023 02:45,Mobile,1,13.41611507,Credit Card,0,0
+1794,Male,31,Fitness,07-05-2023 23:19,Tablet,5,9.425988756,Cash on Delivery,0,0
+1633,Female,30,Fashion,22-01-2023 00:30,Tablet,2,12.83385863,Cash on Delivery,0,0
+1193,Female,42,Fitness,29-04-2023 00:10,Desktop,5,6.71313723,Cash on Delivery,0,0
+1516,Male,19,Books,15-02-2023 01:35,Tablet,3,9.755174846,Debit Card,0,0
+1028,Female,52,Beauty,10-01-2023 19:11,Tablet,5,13.5570529,Cash on Delivery,0,0
+1164,Female,24,Beauty,01-06-2023 22:58,Desktop,3,25.56455101,PayPal,1,0
+1421,Male,38,Fitness,21-06-2023 18:55,Mobile,2,14.04018095,Credit Card,0,1
+1338,Male,35,Electronics,01-03-2023 22:46,Desktop,3,5.75967201,Credit Card,1,1
+1647,Male,20,Toys,25-05-2023 18:08,Mobile,2,7.88120159,PayPal,0,1
+1495,Female,59,Toys,26-02-2023 01:45,Desktop,2,7.732929458,Debit Card,0,1
+1364,Female,56,Toys,09-01-2023 13:09,Desktop,4,1.021784137,PayPal,0,0
+1832,Female,58,Books,21-05-2023 18:32,Tablet,2,8.349549041,Credit Card,0,0
+1341,Male,28,Toys,25-06-2023 08:49,Desktop,3,13.66414541,PayPal,0,0
+1499,Male,56,Beauty,25-04-2023 16:11,Desktop,4,3.628839405,Debit Card,0,1
+1656,Female,41,Books,17-06-2023 23:42,Mobile,4,15.24241326,Credit Card,1,1
+1510,Female,63,Fashion,16-04-2023 21:34,Tablet,2,12.43887411,Debit Card,0,0
+1326,Male,36,Toys,04-03-2023 11:18,Mobile,5,6.32883339,PayPal,0,0
+1216,Male,21,Toys,13-01-2023 14:08,Mobile,5,9.292351813,Cash on Delivery,1,0
+1300,Male,43,Fashion,01-02-2023 06:32,Tablet,4,17.99160904,PayPal,1,0
+1131,Male,55,Toys,09-02-2023 10:59,Tablet,2,13.66773907,Debit Card,0,0
+1803,Female,59,Fashion,23-03-2023 14:04,Tablet,5,10.04391827,PayPal,0,0
+1069,Male,49,Books,17-03-2023 17:41,Desktop,2,8.811583415,Cash on Delivery,1,1
+1251,Female,56,Beauty,12-03-2023 12:40,Tablet,2,10.38304535,Debit Card,0,0
+1414,Female,62,Fashion,17-02-2023 17:21,Tablet,4,7.44118221,PayPal,0,1
+1786,Female,63,Electronics,24-05-2023 03:06,Tablet,4,1,Debit Card,0,1
+1444,Male,53,Fashion,30-03-2023 03:43,Mobile,1,20.21088955,Debit Card,1,1
+1875,Male,57,Toys,03-03-2023 08:07,Mobile,5,10.776625,Credit Card,0,1
+1181,Male,54,Books,21-05-2023 14:36,Desktop,5,11.99073633,Credit Card,1,1
+1166,Male,50,Fitness,22-03-2023 20:52,Mobile,5,9.710461251,Debit Card,0,1
+1090,Female,53,Books,14-05-2023 16:18,Desktop,3,6.324415996,PayPal,1,1
+1713,Male,20,Fitness,18-03-2023 16:56,Mobile,2,9.070377595,PayPal,0,0
+1857,Male,26,Fashion,31-03-2023 04:29,Tablet,4,2.003026189,PayPal,0,1
+1530,Female,25,Beauty,05-04-2023 05:09,Mobile,5,21.38543249,Cash on Delivery,1,1
+1038,Male,50,Electronics,12-05-2023 18:15,Desktop,1,3.827440008,Debit Card,0,1
+1125,Female,23,Books,25-01-2023 14:04,Mobile,5,4.840168581,Debit Card,0,1
+1450,Female,58,Toys,09-06-2023 20:10,Tablet,2,7.798703978,Cash on Delivery,0,0
+1172,Female,56,Fitness,15-06-2023 01:59,Desktop,2,16.44037862,Debit Card,0,0
+1652,Female,21,Toys,22-02-2023 23:55,Tablet,4,10.072545,Debit Card,0,0
+1753,Female,30,Beauty,11-05-2023 21:00,Tablet,3,3.81932102,Cash on Delivery,0,0
+1219,Female,19,Fitness,30-05-2023 10:07,Desktop,4,16.2716918,Credit Card,0,1
+1637,Female,22,Books,15-06-2023 11:51,Tablet,5,13.65500313,Debit Card,0,0
+1057,Female,61,Fashion,13-03-2023 03:04,Tablet,1,12.69217479,Cash on Delivery,0,0
+1659,Male,44,Toys,06-01-2023 20:29,Mobile,4,13.57867121,PayPal,0,0
+1475,Male,49,Beauty,01-02-2023 15:05,Tablet,3,21.9718095,Credit Card,1,0
+1455,Male,38,Books,11-05-2023 11:38,Tablet,4,20.92547448,PayPal,0,1
+1828,Male,25,Books,17-03-2023 20:00,Tablet,2,6.566423285,Debit Card,0,1
+1894,Female,55,Books,28-02-2023 05:48,Tablet,5,18.11942496,Credit Card,1,0
+1360,Male,25,Books,10-03-2023 05:07,Desktop,5,11.91584095,Cash on Delivery,0,0
+1934,Female,20,Fitness,30-03-2023 19:10,Mobile,5,12.49547908,Debit Card,1,0
+1000,Male,61,Books,18-06-2023 04:46,Tablet,5,1.538645842,Cash on Delivery,1,0
+1386,Male,20,Toys,25-03-2023 06:22,Tablet,5,9.148071173,Credit Card,1,0
+1972,Male,39,Beauty,30-05-2023 06:27,Desktop,5,5.935882048,PayPal,0,1
+1347,Female,23,Fitness,13-01-2023 10:38,Tablet,1,14.14029407,Debit Card,1,0
+1189,Male,19,Books,19-06-2023 04:35,Desktop,3,15.3554025,Debit Card,1,0
+1504,Female,40,Electronics,22-03-2023 15:31,Mobile,5,1,Cash on Delivery,0,0
+1190,Female,61,Electronics,09-05-2023 15:10,Mobile,3,9.88982568,Credit Card,0,1
+1507,Male,19,Beauty,17-01-2023 18:01,Tablet,5,15.60930752,Cash on Delivery,0,1
+1368,Male,55,Fashion,13-03-2023 01:48,Tablet,4,9.066605188,Credit Card,0,1
+1408,Male,34,Fashion,23-01-2023 05:27,Tablet,5,13.64531823,Debit Card,0,0
+1823,Female,52,Fitness,08-01-2023 05:14,Desktop,2,11.75582734,Credit Card,0,1
+1928,Male,51,Fitness,21-04-2023 11:38,Tablet,1,11.70830116,Debit Card,0,0
+1933,Female,40,Fitness,13-01-2023 20:52,Tablet,4,8.64342511,Credit Card,0,0
+1116,Female,47,Fashion,05-06-2023 21:35,Mobile,4,3.917095979,PayPal,0,0
+1133,Male,25,Electronics,29-04-2023 17:05,Tablet,2,4.392349263,Credit Card,0,0
+1057,Male,39,Fashion,25-05-2023 21:49,Mobile,5,13.54676257,PayPal,1,1
+1555,Female,61,Toys,13-04-2023 00:12,Tablet,1,10.09729128,Credit Card,0,1
+1684,Female,53,Books,06-04-2023 08:17,Mobile,4,9.307438777,Credit Card,0,0
+1671,Female,22,Fitness,04-04-2023 22:41,Tablet,1,7.880549788,Cash on Delivery,0,1
+1172,Male,30,Electronics,13-01-2023 19:54,Mobile,4,8.474055773,Cash on Delivery,0,1
+1828,Female,46,Beauty,04-04-2023 11:00,Desktop,5,15.23455897,Debit Card,1,1
+1814,Male,48,Beauty,22-04-2023 14:08,Mobile,4,8.323779591,Cash on Delivery,1,0
+1148,Female,64,Books,17-06-2023 10:27,Mobile,4,3.294676433,Credit Card,0,0
+1079,Female,33,Electronics,23-05-2023 20:24,Mobile,3,13.71825888,Cash on Delivery,1,0
+1885,Male,59,Fashion,29-06-2023 11:53,Tablet,5,8.975616681,Credit Card,0,1
+1212,Female,47,Fashion,18-04-2023 07:58,Tablet,2,10.15697933,PayPal,0,0
+1202,Male,33,Toys,22-02-2023 07:50,Tablet,2,18.03789153,Credit Card,0,0
+1763,Male,29,Toys,08-05-2023 15:25,Desktop,5,9.897197213,Debit Card,1,0
+1228,Female,34,Fashion,10-06-2023 05:07,Desktop,2,11.44591837,PayPal,0,0
+1675,Male,33,Beauty,17-05-2023 23:10,Mobile,5,4.105382544,Debit Card,0,1
+1226,Male,29,Fitness,01-01-2023 17:47,Desktop,2,8.901652738,Debit Card,1,1
+1658,Female,25,Beauty,16-03-2023 18:41,Mobile,3,13.04763023,Debit Card,0,1
+1531,Male,37,Toys,09-01-2023 02:19,Mobile,2,2.223131331,Cash on Delivery,0,1
+1440,Male,20,Books,16-05-2023 01:11,Mobile,4,11.00422547,Debit Card,1,0
+1401,Male,33,Fashion,04-06-2023 20:13,Desktop,5,10.50395536,PayPal,0,0
+1046,Female,47,Toys,12-01-2023 22:24,Tablet,1,10.20643728,Credit Card,0,0
+1232,Male,62,Toys,17-04-2023 20:55,Desktop,1,15.18579449,Debit Card,0,0
+1304,Female,40,Fitness,11-02-2023 14:42,Mobile,5,11.67219257,PayPal,0,0
+1525,Female,45,Fashion,19-05-2023 10:14,Mobile,3,17.39035949,Debit Card,0,1
+1142,Male,57,Fitness,20-06-2023 14:22,Desktop,2,5.032052422,Credit Card,0,0
+1414,Male,22,Fashion,17-01-2023 06:55,Mobile,3,10.67962284,PayPal,0,1
+1512,Male,37,Fitness,26-03-2023 07:03,Mobile,1,10.42233393,PayPal,0,0
+1372,Female,57,Beauty,31-05-2023 06:29,Desktop,5,4.653727531,Credit Card,1,0
+1565,Male,61,Books,27-03-2023 15:45,Desktop,5,14.78147501,PayPal,1,0
+1885,Male,18,Books,12-04-2023 08:12,Desktop,3,21.62336653,Credit Card,0,0
+1258,Male,47,Fashion,23-02-2023 20:56,Mobile,3,9.914969628,PayPal,0,0
+1655,Male,38,Electronics,26-06-2023 03:46,Mobile,2,12.52510544,PayPal,1,0
+1470,Male,37,Toys,25-04-2023 02:18,Tablet,4,10.42259238,Credit Card,0,0
+1952,Female,23,Toys,29-03-2023 13:36,Tablet,4,6.43207665,Credit Card,0,0
+1970,Female,39,Fashion,29-05-2023 18:58,Desktop,2,1,PayPal,1,0
+1011,Male,35,Fitness,04-03-2023 01:43,Tablet,4,6.471132585,PayPal,1,1
+1329,Male,25,Electronics,24-03-2023 14:30,Mobile,1,3.040208095,Credit Card,1,1
+1735,Male,56,Beauty,05-06-2023 04:32,Tablet,4,18.52051039,Cash on Delivery,1,0
+1783,Male,49,Fitness,06-01-2023 19:30,Mobile,2,9.42445153,Credit Card,0,1
+1967,Female,50,Fitness,28-01-2023 19:02,Desktop,4,8.270403355,PayPal,0,1
+1357,Male,33,Fashion,06-02-2023 23:14,Desktop,5,14.44576912,PayPal,0,1
+1971,Female,29,Fashion,09-03-2023 20:41,Mobile,3,4.391244486,PayPal,0,0
+1407,Female,55,Toys,26-06-2023 22:02,Tablet,1,6.16567981,Credit Card,0,0
+1667,Male,51,Fashion,13-06-2023 00:57,Desktop,5,10.34036135,PayPal,1,1
+1372,Female,31,Fashion,13-01-2023 05:07,Desktop,5,15.14384496,Cash on Delivery,1,0
+1007,Female,53,Fashion,27-02-2023 21:51,Tablet,2,12.50842523,Debit Card,0,1
+1121,Female,50,Toys,15-04-2023 20:51,Tablet,3,11.24162571,Cash on Delivery,1,1
+1347,Female,40,Beauty,24-03-2023 20:09,Mobile,3,10.39058868,Credit Card,1,0
+1675,Male,62,Beauty,09-04-2023 13:15,Tablet,1,12.00117928,PayPal,0,0
+1089,Male,19,Fashion,09-05-2023 03:29,Tablet,2,11.00826453,Credit Card,0,0
+1647,Female,58,Toys,17-02-2023 10:08,Tablet,1,4.850138626,Debit Card,0,0
+1697,Male,38,Beauty,24-04-2023 14:59,Mobile,4,10.23039611,Credit Card,0,0
+1315,Male,19,Fitness,15-06-2023 15:22,Mobile,5,4.631556705,PayPal,0,0
+1177,Male,44,Beauty,17-05-2023 06:06,Desktop,1,10.40541271,Debit Card,0,0
+1539,Male,26,Beauty,24-05-2023 03:03,Mobile,5,7.596760293,Debit Card,0,0
+1731,Male,18,Toys,17-03-2023 21:50,Desktop,2,22.69690811,PayPal,0,1
+1868,Female,28,Fitness,29-04-2023 10:53,Tablet,4,9.800528081,PayPal,1,0
+1040,Male,20,Toys,25-01-2023 13:21,Desktop,2,2.978802169,PayPal,0,1
+1739,Male,40,Fashion,08-03-2023 21:13,Desktop,4,9.329098947,Credit Card,1,1
+1703,Male,43,Books,01-06-2023 08:29,Tablet,4,12.59679373,Cash on Delivery,0,0
+1922,Male,21,Beauty,28-04-2023 16:41,Desktop,5,18.36681973,Credit Card,0,1
+1501,Female,35,Books,14-03-2023 21:45,Mobile,2,7.052738,Credit Card,1,0
+1958,Female,23,Toys,28-05-2023 23:03,Mobile,2,2.08786013,Cash on Delivery,0,1
+1144,Female,52,Toys,10-01-2023 20:34,Mobile,1,14.08418506,PayPal,0,0
+1200,Female,39,Toys,08-03-2023 02:31,Mobile,2,3.097006471,PayPal,1,0
+1928,Male,60,Books,05-01-2023 20:18,Desktop,1,7.819222792,Cash on Delivery,0,0
+1723,Female,32,Toys,27-01-2023 07:43,Desktop,3,8.711897572,Cash on Delivery,0,0
+1460,Male,39,Fashion,23-04-2023 04:30,Tablet,3,9.651832733,Credit Card,0,0
+1731,Male,54,Toys,12-06-2023 07:39,Desktop,3,13.44582229,Debit Card,1,0
+1751,Male,59,Electronics,15-04-2023 21:45,Desktop,2,6.581828589,Cash on Delivery,0,0
+1924,Male,29,Books,24-06-2023 02:41,Desktop,2,8.631353739,Credit Card,0,0
+1908,Male,64,Electronics,05-04-2023 07:13,Tablet,1,9.928648235,Debit Card,0,0
+1557,Female,59,Toys,25-03-2023 02:19,Mobile,4,10.74798979,PayPal,0,0
+1546,Female,55,Fashion,12-05-2023 01:26,Desktop,1,10.48913587,PayPal,1,0
+1252,Female,35,Beauty,25-06-2023 03:02,Tablet,3,12.18002888,Credit Card,0,0
+1389,Female,62,Fitness,22-04-2023 02:08,Tablet,1,14.21919755,Credit Card,0,1
+1593,Male,52,Fitness,30-03-2023 11:09,Tablet,4,11.96317058,Cash on Delivery,0,0
+1882,Female,47,Toys,11-05-2023 23:21,Mobile,2,12.26792762,PayPal,1,1
+1255,Male,41,Fashion,29-05-2023 16:24,Desktop,1,2.088884166,Credit Card,0,0
+1708,Female,59,Books,25-03-2023 10:27,Tablet,3,10.2511385,PayPal,1,1
+1814,Male,47,Electronics,26-04-2023 04:53,Mobile,3,12.39753774,PayPal,1,0
+1920,Male,31,Electronics,23-05-2023 04:09,Tablet,2,13.64470597,Cash on Delivery,0,0
+1449,Female,23,Electronics,20-04-2023 15:47,Tablet,1,6.538246129,Debit Card,0,0
+1009,Male,20,Books,15-02-2023 17:28,Tablet,4,6.704803626,Cash on Delivery,0,0
+1823,Male,33,Fitness,21-01-2023 16:23,Tablet,2,7.129496624,Credit Card,1,0
+1797,Female,24,Fashion,01-05-2023 14:49,Tablet,1,12.6820695,Cash on Delivery,0,0
+1241,Male,31,Books,13-05-2023 01:09,Mobile,5,15.16940527,Cash on Delivery,0,1
+1250,Female,26,Electronics,23-04-2023 14:34,Desktop,3,7.962699464,PayPal,1,0
